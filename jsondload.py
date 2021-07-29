@@ -17,5 +17,3 @@ json_data = response.json()
 
 with open('swelldata.json', 'w') as f:
     f.write(json.dumps(json_data, indent=3))
-
-  #comment
