@@ -1,0 +1,6801 @@
+{
+   "hours": [
+      {
+         "swellDirection": {
+            "icon": 143.64,
+            "meteo": 166.66,
+            "noaa": 162.89,
+            "sg": 166.66
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.68,
+            "noaa": 0.79,
+            "sg": 0.68
+         },
+         "swellPeriod": {
+            "icon": 7.63,
+            "meteo": 4.74,
+            "noaa": 6.09,
+            "sg": 4.74
+         },
+         "time": "2021-07-27T00:00:00+00:00",
+         "windDirection": {
+            "icon": 190.3,
+            "noaa": 285.7,
+            "sg": 190.3
+         },
+         "windSpeed": {
+            "icon": 1.84,
+            "noaa": 2.67,
+            "sg": 1.84
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 142.52,
+            "meteo": 168.94,
+            "noaa": 163.03,
+            "sg": 168.94
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.69,
+            "noaa": 0.78,
+            "sg": 0.69
+         },
+         "swellPeriod": {
+            "icon": 7.68,
+            "meteo": 4.66,
+            "noaa": 6.03,
+            "sg": 4.66
+         },
+         "time": "2021-07-27T01:00:00+00:00",
+         "windDirection": {
+            "icon": 196.24,
+            "noaa": 295.69,
+            "sg": 196.24
+         },
+         "windSpeed": {
+            "icon": 1.88,
+            "noaa": 2.93,
+            "sg": 1.88
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 141.4,
+            "meteo": 171.22,
+            "noaa": 163.17,
+            "sg": 171.22
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.71,
+            "noaa": 0.77,
+            "sg": 0.71
+         },
+         "swellPeriod": {
+            "icon": 7.74,
+            "meteo": 4.57,
+            "noaa": 5.97,
+            "sg": 4.57
+         },
+         "time": "2021-07-27T02:00:00+00:00",
+         "windDirection": {
+            "icon": 202.17,
+            "noaa": 305.68,
+            "sg": 202.17
+         },
+         "windSpeed": {
+            "icon": 1.93,
+            "noaa": 3.18,
+            "sg": 1.93
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 140.28,
+            "meteo": 173.5,
+            "noaa": 163.31,
+            "sg": 173.5
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.72,
+            "noaa": 0.76,
+            "sg": 0.72
+         },
+         "swellPeriod": {
+            "icon": 7.79,
+            "meteo": 4.49,
+            "noaa": 5.91,
+            "sg": 4.49
+         },
+         "time": "2021-07-27T03:00:00+00:00",
+         "windDirection": {
+            "icon": 208.11,
+            "noaa": 315.67,
+            "sg": 208.11
+         },
+         "windSpeed": {
+            "icon": 1.97,
+            "noaa": 3.44,
+            "sg": 1.97
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 139.41,
+            "meteo": 173.91,
+            "noaa": 162.8,
+            "sg": 173.91
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.7,
+            "noaa": 0.74,
+            "sg": 0.7
+         },
+         "swellPeriod": {
+            "icon": 7.83,
+            "meteo": 4.44,
+            "noaa": 5.84,
+            "sg": 4.44
+         },
+         "time": "2021-07-27T04:00:00+00:00",
+         "windDirection": {
+            "icon": 236.26,
+            "noaa": 318.15,
+            "sg": 236.26
+         },
+         "windSpeed": {
+            "icon": 1.74,
+            "noaa": 3.62,
+            "sg": 1.74
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 138.53,
+            "meteo": 174.33,
+            "noaa": 162.3,
+            "sg": 174.33
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.69,
+            "noaa": 0.73,
+            "sg": 0.69
+         },
+         "swellPeriod": {
+            "icon": 7.87,
+            "meteo": 4.39,
+            "noaa": 5.78,
+            "sg": 4.39
+         },
+         "time": "2021-07-27T05:00:00+00:00",
+         "windDirection": {
+            "icon": 264.41,
+            "noaa": 320.64,
+            "sg": 264.41
+         },
+         "windSpeed": {
+            "icon": 1.51,
+            "noaa": 3.8,
+            "sg": 1.51
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 137.66,
+            "meteo": 174.74,
+            "noaa": 161.79,
+            "sg": 174.74
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.67,
+            "noaa": 0.71,
+            "sg": 0.67
+         },
+         "swellPeriod": {
+            "icon": 7.91,
+            "meteo": 4.34,
+            "noaa": 5.71,
+            "sg": 4.34
+         },
+         "time": "2021-07-27T06:00:00+00:00",
+         "windDirection": {
+            "icon": 292.56,
+            "noaa": 323.12,
+            "sg": 292.56
+         },
+         "windSpeed": {
+            "icon": 1.28,
+            "noaa": 3.98,
+            "sg": 1.28
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 137.07,
+            "meteo": 173.98,
+            "noaa": 161.38,
+            "sg": 173.98
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.66,
+            "noaa": 0.69,
+            "sg": 0.66
+         },
+         "swellPeriod": {
+            "icon": 7.96,
+            "meteo": 4.36,
+            "noaa": 5.66,
+            "sg": 4.36
+         },
+         "time": "2021-07-27T07:00:00+00:00",
+         "windDirection": {
+            "icon": 287.42,
+            "noaa": 323.19,
+            "sg": 287.42
+         },
+         "windSpeed": {
+            "icon": 1.34,
+            "noaa": 4.13,
+            "sg": 1.34
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 136.49,
+            "meteo": 173.22,
+            "noaa": 160.97,
+            "sg": 173.22
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.65,
+            "noaa": 0.67,
+            "sg": 0.65
+         },
+         "swellPeriod": {
+            "icon": 8.0,
+            "meteo": 4.37,
+            "noaa": 5.62,
+            "sg": 4.37
+         },
+         "time": "2021-07-27T08:00:00+00:00",
+         "windDirection": {
+            "icon": 282.27,
+            "noaa": 323.27,
+            "sg": 282.27
+         },
+         "windSpeed": {
+            "icon": 1.41,
+            "noaa": 4.28,
+            "sg": 1.41
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 135.9,
+            "meteo": 172.46,
+            "noaa": 160.56,
+            "sg": 172.46
+         },
+         "swellHeight": {
+            "icon": 0.53,
+            "meteo": 0.64,
+            "noaa": 0.65,
+            "sg": 0.64
+         },
+         "swellPeriod": {
+            "icon": 8.05,
+            "meteo": 4.39,
+            "noaa": 5.57,
+            "sg": 4.39
+         },
+         "time": "2021-07-27T09:00:00+00:00",
+         "windDirection": {
+            "icon": 277.13,
+            "noaa": 323.34,
+            "sg": 277.13
+         },
+         "windSpeed": {
+            "icon": 1.47,
+            "noaa": 4.43,
+            "sg": 1.47
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 135.34,
+            "meteo": 171.78,
+            "noaa": 159.48,
+            "sg": 171.78
+         },
+         "swellHeight": {
+            "icon": 0.53,
+            "meteo": 0.64,
+            "noaa": 0.63,
+            "sg": 0.64
+         },
+         "swellPeriod": {
+            "icon": 8.04,
+            "meteo": 4.43,
+            "noaa": 5.51,
+            "sg": 4.43
+         },
+         "time": "2021-07-27T10:00:00+00:00",
+         "windDirection": {
+            "icon": 281.71,
+            "noaa": 324.94,
+            "sg": 281.71
+         },
+         "windSpeed": {
+            "icon": 1.36,
+            "noaa": 4.02,
+            "sg": 1.36
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 134.79,
+            "meteo": 171.11,
+            "noaa": 158.4,
+            "sg": 171.11
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.63,
+            "noaa": 0.61,
+            "sg": 0.63
+         },
+         "swellPeriod": {
+            "icon": 8.04,
+            "meteo": 4.47,
+            "noaa": 5.45,
+            "sg": 4.47
+         },
+         "time": "2021-07-27T11:00:00+00:00",
+         "windDirection": {
+            "icon": 286.29,
+            "noaa": 326.55,
+            "sg": 286.29
+         },
+         "windSpeed": {
+            "icon": 1.26,
+            "noaa": 3.6,
+            "sg": 1.26
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 134.23,
+            "meteo": 170.43,
+            "noaa": 157.32,
+            "sg": 170.43
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.63,
+            "noaa": 0.59,
+            "sg": 0.63
+         },
+         "swellPeriod": {
+            "icon": 8.03,
+            "meteo": 4.51,
+            "noaa": 5.39,
+            "sg": 4.51
+         },
+         "time": "2021-07-27T12:00:00+00:00",
+         "windDirection": {
+            "icon": 290.87,
+            "noaa": 328.15,
+            "sg": 290.87
+         },
+         "windSpeed": {
+            "icon": 1.15,
+            "noaa": 3.19,
+            "sg": 1.15
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 133.88,
+            "meteo": 170.59,
+            "noaa": 157.56,
+            "sg": 170.59
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.62,
+            "noaa": 0.57,
+            "sg": 0.62
+         },
+         "swellPeriod": {
+            "icon": 8.03,
+            "meteo": 4.49,
+            "noaa": 5.35,
+            "sg": 4.49
+         },
+         "time": "2021-07-27T13:00:00+00:00",
+         "windDirection": {
+            "icon": 249.13,
+            "noaa": 268.36,
+            "sg": 249.13
+         },
+         "windSpeed": {
+            "icon": 1.2,
+            "noaa": 2.34,
+            "sg": 1.2
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 133.53,
+            "meteo": 170.75,
+            "noaa": 157.79,
+            "sg": 170.75
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.61,
+            "noaa": 0.55,
+            "sg": 0.61
+         },
+         "swellPeriod": {
+            "icon": 8.04,
+            "meteo": 4.46,
+            "noaa": 5.32,
+            "sg": 4.46
+         },
+         "time": "2021-07-27T14:00:00+00:00",
+         "windDirection": {
+            "icon": 207.38,
+            "noaa": 208.56,
+            "sg": 207.38
+         },
+         "windSpeed": {
+            "icon": 1.24,
+            "noaa": 1.48,
+            "sg": 1.24
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 133.18,
+            "meteo": 170.91,
+            "noaa": 158.03,
+            "sg": 170.91
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.6,
+            "noaa": 0.53,
+            "sg": 0.6
+         },
+         "swellPeriod": {
+            "icon": 8.04,
+            "meteo": 4.44,
+            "noaa": 5.28,
+            "sg": 4.44
+         },
+         "time": "2021-07-27T15:00:00+00:00",
+         "windDirection": {
+            "icon": 165.64,
+            "noaa": 148.77,
+            "sg": 165.64
+         },
+         "windSpeed": {
+            "icon": 1.29,
+            "noaa": 0.63,
+            "sg": 1.29
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 132.93,
+            "meteo": 170.49,
+            "noaa": 158.17,
+            "sg": 170.49
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.59,
+            "noaa": 0.53,
+            "sg": 0.59
+         },
+         "swellPeriod": {
+            "icon": 8.05,
+            "meteo": 4.44,
+            "noaa": 5.34,
+            "sg": 4.44
+         },
+         "time": "2021-07-27T16:00:00+00:00",
+         "windDirection": {
+            "icon": 160.84,
+            "noaa": 157.74,
+            "sg": 160.84
+         },
+         "windSpeed": {
+            "icon": 2.0,
+            "noaa": 1.9,
+            "sg": 2.0
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 132.68,
+            "meteo": 170.07,
+            "noaa": 158.32,
+            "sg": 170.07
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.58,
+            "noaa": 0.54,
+            "sg": 0.58
+         },
+         "swellPeriod": {
+            "icon": 8.06,
+            "meteo": 4.44,
+            "noaa": 5.4,
+            "sg": 4.44
+         },
+         "time": "2021-07-27T17:00:00+00:00",
+         "windDirection": {
+            "icon": 156.04,
+            "noaa": 166.7,
+            "sg": 156.04
+         },
+         "windSpeed": {
+            "icon": 2.72,
+            "noaa": 3.18,
+            "sg": 2.72
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 132.43,
+            "meteo": 169.65,
+            "noaa": 158.46,
+            "sg": 169.65
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.57,
+            "noaa": 0.54,
+            "sg": 0.57
+         },
+         "swellPeriod": {
+            "icon": 8.07,
+            "meteo": 4.44,
+            "noaa": 5.46,
+            "sg": 4.44
+         },
+         "time": "2021-07-27T18:00:00+00:00",
+         "windDirection": {
+            "icon": 151.24,
+            "noaa": 175.67,
+            "sg": 151.24
+         },
+         "windSpeed": {
+            "icon": 3.43,
+            "noaa": 4.45,
+            "sg": 3.43
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 132.09,
+            "meteo": 168.18,
+            "noaa": 146.4,
+            "sg": 168.18
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.55,
+            "noaa": 0.49,
+            "sg": 0.55
+         },
+         "swellPeriod": {
+            "icon": 8.08,
+            "meteo": 4.53,
+            "noaa": 6.9,
+            "sg": 4.53
+         },
+         "time": "2021-07-27T19:00:00+00:00",
+         "windDirection": {
+            "icon": 158.24,
+            "noaa": 173.54,
+            "sg": 158.24
+         },
+         "windSpeed": {
+            "icon": 3.68,
+            "noaa": 5.12,
+            "sg": 3.68
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 131.75,
+            "meteo": 166.71,
+            "noaa": 134.35,
+            "sg": 166.71
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.54,
+            "noaa": 0.43,
+            "sg": 0.54
+         },
+         "swellPeriod": {
+            "icon": 8.08,
+            "meteo": 4.63,
+            "noaa": 8.35,
+            "sg": 4.63
+         },
+         "time": "2021-07-27T20:00:00+00:00",
+         "windDirection": {
+            "icon": 165.24,
+            "noaa": 171.42,
+            "sg": 165.24
+         },
+         "windSpeed": {
+            "icon": 3.93,
+            "noaa": 5.8,
+            "sg": 3.93
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 131.41,
+            "meteo": 165.24,
+            "noaa": 122.29,
+            "sg": 165.24
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.52,
+            "noaa": 0.38,
+            "sg": 0.52
+         },
+         "swellPeriod": {
+            "icon": 8.09,
+            "meteo": 4.72,
+            "noaa": 9.79,
+            "sg": 4.72
+         },
+         "time": "2021-07-27T21:00:00+00:00",
+         "windDirection": {
+            "icon": 172.24,
+            "noaa": 169.29,
+            "sg": 172.24
+         },
+         "windSpeed": {
+            "icon": 4.18,
+            "noaa": 6.47,
+            "sg": 4.18
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 132.44,
+            "meteo": 154.73,
+            "noaa": 122.75,
+            "sg": 154.73
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.51,
+            "noaa": 0.39,
+            "sg": 0.51
+         },
+         "swellPeriod": {
+            "icon": 7.91,
+            "meteo": 5.88,
+            "noaa": 9.78,
+            "sg": 5.88
+         },
+         "time": "2021-07-27T22:00:00+00:00",
+         "windDirection": {
+            "icon": 177.14,
+            "noaa": 181.59,
+            "sg": 177.14
+         },
+         "windSpeed": {
+            "icon": 3.94,
+            "noaa": 6.1,
+            "sg": 3.94
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 133.48,
+            "meteo": 144.22,
+            "noaa": 123.21,
+            "sg": 144.22
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.49,
+            "noaa": 0.39,
+            "sg": 0.49
+         },
+         "swellPeriod": {
+            "icon": 7.74,
+            "meteo": 7.04,
+            "noaa": 9.77,
+            "sg": 7.04
+         },
+         "time": "2021-07-27T23:00:00+00:00",
+         "windDirection": {
+            "icon": 182.03,
+            "noaa": 193.89,
+            "sg": 182.03
+         },
+         "windSpeed": {
+            "icon": 3.71,
+            "noaa": 5.74,
+            "sg": 3.71
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 134.51,
+            "meteo": 133.71,
+            "noaa": 123.67,
+            "sg": 133.71
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.48,
+            "noaa": 0.4,
+            "sg": 0.48
+         },
+         "swellPeriod": {
+            "icon": 7.56,
+            "meteo": 8.2,
+            "noaa": 9.76,
+            "sg": 8.2
+         },
+         "time": "2021-07-28T00:00:00+00:00",
+         "windDirection": {
+            "icon": 186.93,
+            "noaa": 206.19,
+            "sg": 186.93
+         },
+         "windSpeed": {
+            "icon": 3.47,
+            "noaa": 5.37,
+            "sg": 3.47
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 134.92,
+            "meteo": 134.26,
+            "noaa": 138.43,
+            "sg": 134.26
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.48,
+            "noaa": 0.37,
+            "sg": 0.48
+         },
+         "swellPeriod": {
+            "icon": 7.5,
+            "meteo": 8.16,
+            "noaa": 8.16,
+            "sg": 8.16
+         },
+         "time": "2021-07-28T01:00:00+00:00",
+         "windDirection": {
+            "icon": 196.66,
+            "noaa": 148.42,
+            "sg": 196.66
+         },
+         "windSpeed": {
+            "icon": 3.6,
+            "noaa": 5.69,
+            "sg": 3.6
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 135.34,
+            "meteo": 134.82,
+            "noaa": 153.18,
+            "sg": 134.82
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.48,
+            "noaa": 0.33,
+            "sg": 0.48
+         },
+         "swellPeriod": {
+            "icon": 7.44,
+            "meteo": 8.12,
+            "noaa": 6.57,
+            "sg": 8.12
+         },
+         "time": "2021-07-28T02:00:00+00:00",
+         "windDirection": {
+            "icon": 206.39,
+            "noaa": 90.64,
+            "sg": 206.39
+         },
+         "windSpeed": {
+            "icon": 3.74,
+            "noaa": 6.02,
+            "sg": 3.74
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 135.75,
+            "meteo": 135.37,
+            "noaa": 167.94,
+            "sg": 135.37
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.48,
+            "noaa": 0.3,
+            "sg": 0.48
+         },
+         "swellPeriod": {
+            "icon": 7.38,
+            "meteo": 8.08,
+            "noaa": 4.97,
+            "sg": 8.08
+         },
+         "time": "2021-07-28T03:00:00+00:00",
+         "windDirection": {
+            "icon": 216.12,
+            "noaa": 32.87,
+            "sg": 216.12
+         },
+         "windSpeed": {
+            "icon": 3.87,
+            "noaa": 6.34,
+            "sg": 3.87
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 137.17,
+            "meteo": 135.63,
+            "noaa": 153.43,
+            "sg": 135.63
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.49,
+            "noaa": 0.33,
+            "sg": 0.49
+         },
+         "swellPeriod": {
+            "icon": 7.25,
+            "meteo": 7.98,
+            "noaa": 6.57,
+            "sg": 7.98
+         },
+         "time": "2021-07-28T04:00:00+00:00",
+         "windDirection": {
+            "icon": 224.1,
+            "noaa": 53.28,
+            "sg": 224.1
+         },
+         "windSpeed": {
+            "icon": 3.83,
+            "noaa": 5.77,
+            "sg": 3.83
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 138.59,
+            "meteo": 135.89,
+            "noaa": 138.92,
+            "sg": 135.89
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "meteo": 0.49,
+            "noaa": 0.37,
+            "sg": 0.49
+         },
+         "swellPeriod": {
+            "icon": 7.13,
+            "meteo": 7.88,
+            "noaa": 8.16,
+            "sg": 7.88
+         },
+         "time": "2021-07-28T05:00:00+00:00",
+         "windDirection": {
+            "icon": 232.08,
+            "noaa": 73.69,
+            "sg": 232.08
+         },
+         "windSpeed": {
+            "icon": 3.78,
+            "noaa": 5.2,
+            "sg": 3.78
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 140.01,
+            "meteo": 136.15,
+            "noaa": 124.41,
+            "sg": 136.15
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "meteo": 0.5,
+            "noaa": 0.4,
+            "sg": 0.5
+         },
+         "swellPeriod": {
+            "icon": 7.0,
+            "meteo": 7.78,
+            "noaa": 9.76,
+            "sg": 7.78
+         },
+         "time": "2021-07-28T06:00:00+00:00",
+         "windDirection": {
+            "icon": 240.06,
+            "noaa": 94.1,
+            "sg": 240.06
+         },
+         "windSpeed": {
+            "icon": 3.74,
+            "noaa": 4.63,
+            "sg": 3.74
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 139.99,
+            "meteo": 149.51,
+            "noaa": 124.31,
+            "sg": 149.51
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "meteo": 0.52,
+            "noaa": 0.4,
+            "sg": 0.52
+         },
+         "swellPeriod": {
+            "icon": 6.98,
+            "meteo": 6.39,
+            "noaa": 9.74,
+            "sg": 6.39
+         },
+         "time": "2021-07-28T07:00:00+00:00",
+         "windDirection": {
+            "icon": 289.84,
+            "noaa": 54.62,
+            "sg": 289.84
+         },
+         "windSpeed": {
+            "icon": 4.86,
+            "noaa": 3.98,
+            "sg": 4.86
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 139.97,
+            "meteo": 162.88,
+            "noaa": 124.22,
+            "sg": 162.88
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.54,
+            "noaa": 0.41,
+            "sg": 0.54
+         },
+         "swellPeriod": {
+            "icon": 6.95,
+            "meteo": 5.01,
+            "noaa": 9.71,
+            "sg": 5.01
+         },
+         "time": "2021-07-28T08:00:00+00:00",
+         "windDirection": {
+            "icon": 339.61,
+            "noaa": 15.14,
+            "sg": 339.61
+         },
+         "windSpeed": {
+            "icon": 5.98,
+            "noaa": 3.33,
+            "sg": 5.98
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 139.95,
+            "meteo": 176.24,
+            "noaa": 124.12,
+            "sg": 176.24
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.56,
+            "noaa": 0.41,
+            "sg": 0.56
+         },
+         "swellPeriod": {
+            "icon": 6.93,
+            "meteo": 3.62,
+            "noaa": 9.69,
+            "sg": 3.62
+         },
+         "time": "2021-07-28T09:00:00+00:00",
+         "windDirection": {
+            "icon": 29.39,
+            "noaa": 335.66,
+            "sg": 29.39
+         },
+         "windSpeed": {
+            "icon": 7.1,
+            "noaa": 2.68,
+            "sg": 7.1
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 135.42,
+            "meteo": 177.38,
+            "noaa": 124.04,
+            "sg": 177.38
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.55,
+            "noaa": 0.41,
+            "sg": 0.55
+         },
+         "swellPeriod": {
+            "icon": 6.99,
+            "meteo": 3.55,
+            "noaa": 9.65,
+            "sg": 3.55
+         },
+         "time": "2021-07-28T10:00:00+00:00",
+         "windDirection": {
+            "icon": 37.98,
+            "noaa": 341.02,
+            "sg": 37.98
+         },
+         "windSpeed": {
+            "icon": 6.76,
+            "noaa": 3.51,
+            "sg": 6.76
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 130.9,
+            "meteo": 178.52,
+            "noaa": 123.95,
+            "sg": 178.52
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.55,
+            "noaa": 0.41,
+            "sg": 0.55
+         },
+         "swellPeriod": {
+            "icon": 7.05,
+            "meteo": 3.48,
+            "noaa": 9.6,
+            "sg": 3.48
+         },
+         "time": "2021-07-28T11:00:00+00:00",
+         "windDirection": {
+            "icon": 46.56,
+            "noaa": 346.39,
+            "sg": 46.56
+         },
+         "windSpeed": {
+            "icon": 6.43,
+            "noaa": 4.34,
+            "sg": 6.43
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 126.37,
+            "meteo": 179.66,
+            "noaa": 123.87,
+            "sg": 179.66
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.54,
+            "noaa": 0.41,
+            "sg": 0.54
+         },
+         "swellPeriod": {
+            "icon": 7.11,
+            "meteo": 3.41,
+            "noaa": 9.56,
+            "sg": 3.41
+         },
+         "time": "2021-07-28T12:00:00+00:00",
+         "windDirection": {
+            "icon": 55.15,
+            "noaa": 351.75,
+            "sg": 55.15
+         },
+         "windSpeed": {
+            "icon": 6.09,
+            "noaa": 5.17,
+            "sg": 6.09
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 114.54,
+            "meteo": 166.45,
+            "noaa": 124.4,
+            "sg": 166.45
+         },
+         "swellHeight": {
+            "icon": 0.6,
+            "meteo": 0.53,
+            "noaa": 0.42,
+            "sg": 0.53
+         },
+         "swellPeriod": {
+            "icon": 6.61,
+            "meteo": 4.68,
+            "noaa": 9.49,
+            "sg": 4.68
+         },
+         "time": "2021-07-28T13:00:00+00:00",
+         "windDirection": {
+            "icon": 44.39,
+            "noaa": 8.02,
+            "sg": 44.39
+         },
+         "windSpeed": {
+            "icon": 5.21,
+            "noaa": 5.26,
+            "sg": 5.21
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 102.71,
+            "meteo": 153.25,
+            "noaa": 124.93,
+            "sg": 153.25
+         },
+         "swellHeight": {
+            "icon": 0.65,
+            "meteo": 0.52,
+            "noaa": 0.42,
+            "sg": 0.52
+         },
+         "swellPeriod": {
+            "icon": 6.1,
+            "meteo": 5.96,
+            "noaa": 9.43,
+            "sg": 5.96
+         },
+         "time": "2021-07-28T14:00:00+00:00",
+         "windDirection": {
+            "icon": 33.62,
+            "noaa": 24.29,
+            "sg": 33.62
+         },
+         "windSpeed": {
+            "icon": 4.32,
+            "noaa": 5.36,
+            "sg": 4.32
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 90.88,
+            "meteo": 140.04,
+            "noaa": 125.46,
+            "sg": 140.04
+         },
+         "swellHeight": {
+            "icon": 0.71,
+            "meteo": 0.51,
+            "noaa": 0.43,
+            "sg": 0.51
+         },
+         "swellPeriod": {
+            "icon": 5.6,
+            "meteo": 7.23,
+            "noaa": 9.36,
+            "sg": 7.23
+         },
+         "time": "2021-07-28T15:00:00+00:00",
+         "windDirection": {
+            "icon": 22.86,
+            "noaa": 40.56,
+            "sg": 22.86
+         },
+         "windSpeed": {
+            "icon": 3.44,
+            "noaa": 5.45,
+            "sg": 3.44
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 105.76,
+            "meteo": 143.86,
+            "noaa": 128.14,
+            "sg": 143.86
+         },
+         "swellHeight": {
+            "icon": 0.66,
+            "meteo": 0.55,
+            "noaa": 0.44,
+            "sg": 0.55
+         },
+         "swellPeriod": {
+            "icon": 6.15,
+            "meteo": 6.77,
+            "noaa": 9.17,
+            "sg": 6.77
+         },
+         "time": "2021-07-28T16:00:00+00:00",
+         "windDirection": {
+            "icon": 354.17,
+            "noaa": 50.57,
+            "sg": 354.17
+         },
+         "windSpeed": {
+            "icon": 2.62,
+            "noaa": 5.38,
+            "sg": 2.62
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 120.63,
+            "meteo": 147.69,
+            "noaa": 130.81,
+            "sg": 147.69
+         },
+         "swellHeight": {
+            "icon": 0.6,
+            "meteo": 0.58,
+            "noaa": 0.45,
+            "sg": 0.58
+         },
+         "swellPeriod": {
+            "icon": 6.69,
+            "meteo": 6.31,
+            "noaa": 8.97,
+            "sg": 6.31
+         },
+         "time": "2021-07-28T17:00:00+00:00",
+         "windDirection": {
+            "icon": 325.49,
+            "noaa": 60.57,
+            "sg": 325.49
+         },
+         "windSpeed": {
+            "icon": 1.81,
+            "noaa": 5.32,
+            "sg": 1.81
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 135.51,
+            "meteo": 151.51,
+            "noaa": 133.49,
+            "sg": 151.51
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.62,
+            "noaa": 0.46,
+            "sg": 0.62
+         },
+         "swellPeriod": {
+            "icon": 7.24,
+            "meteo": 5.85,
+            "noaa": 8.78,
+            "sg": 5.85
+         },
+         "time": "2021-07-28T18:00:00+00:00",
+         "windDirection": {
+            "icon": 296.8,
+            "noaa": 70.58,
+            "sg": 296.8
+         },
+         "windSpeed": {
+            "icon": 0.99,
+            "noaa": 5.25,
+            "sg": 0.99
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 125.75,
+            "meteo": 150.55,
+            "noaa": 133.68,
+            "sg": 150.55
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.61,
+            "noaa": 0.46,
+            "sg": 0.61
+         },
+         "swellPeriod": {
+            "icon": 7.0,
+            "meteo": 5.92,
+            "noaa": 8.55,
+            "sg": 5.92
+         },
+         "time": "2021-07-28T19:00:00+00:00",
+         "windDirection": {
+            "icon": 237.15,
+            "noaa": 82.21,
+            "sg": 237.15
+         },
+         "windSpeed": {
+            "icon": 1.87,
+            "noaa": 5.26,
+            "sg": 1.87
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 116.0,
+            "meteo": 149.58,
+            "noaa": 133.87,
+            "sg": 149.58
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.59,
+            "noaa": 0.45,
+            "sg": 0.59
+         },
+         "swellPeriod": {
+            "icon": 6.75,
+            "meteo": 5.99,
+            "noaa": 8.32,
+            "sg": 5.99
+         },
+         "time": "2021-07-28T20:00:00+00:00",
+         "windDirection": {
+            "icon": 177.51,
+            "noaa": 93.84,
+            "sg": 177.51
+         },
+         "windSpeed": {
+            "icon": 2.74,
+            "noaa": 5.27,
+            "sg": 2.74
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 106.24,
+            "meteo": 148.62,
+            "noaa": 134.06,
+            "sg": 148.62
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.58,
+            "noaa": 0.45,
+            "sg": 0.58
+         },
+         "swellPeriod": {
+            "icon": 6.51,
+            "meteo": 6.06,
+            "noaa": 8.09,
+            "sg": 6.06
+         },
+         "time": "2021-07-28T21:00:00+00:00",
+         "windDirection": {
+            "icon": 117.86,
+            "noaa": 105.47,
+            "sg": 117.86
+         },
+         "windSpeed": {
+            "icon": 3.62,
+            "noaa": 5.28,
+            "sg": 3.62
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 114.47,
+            "meteo": 148.82,
+            "noaa": 134.22,
+            "sg": 148.82
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.58,
+            "noaa": 0.45,
+            "sg": 0.58
+         },
+         "swellPeriod": {
+            "icon": 6.83,
+            "meteo": 6.02,
+            "noaa": 8.04,
+            "sg": 6.02
+         },
+         "time": "2021-07-28T22:00:00+00:00",
+         "windDirection": {
+            "icon": 110.11,
+            "noaa": 115.12,
+            "sg": 110.11
+         },
+         "windSpeed": {
+            "icon": 3.32,
+            "noaa": 5.16,
+            "sg": 3.32
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 122.69,
+            "meteo": 149.01,
+            "noaa": 134.38,
+            "sg": 149.01
+         },
+         "swellHeight": {
+            "icon": 0.53,
+            "meteo": 0.57,
+            "noaa": 0.44,
+            "sg": 0.57
+         },
+         "swellPeriod": {
+            "icon": 7.15,
+            "meteo": 5.97,
+            "noaa": 8.0,
+            "sg": 5.97
+         },
+         "time": "2021-07-28T23:00:00+00:00",
+         "windDirection": {
+            "icon": 102.35,
+            "noaa": 124.76,
+            "sg": 102.35
+         },
+         "windSpeed": {
+            "icon": 3.02,
+            "noaa": 5.04,
+            "sg": 3.02
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 130.92,
+            "meteo": 149.21,
+            "noaa": 134.54,
+            "sg": 149.21
+         },
+         "swellHeight": {
+            "icon": 0.51,
+            "meteo": 0.57,
+            "noaa": 0.44,
+            "sg": 0.57
+         },
+         "swellPeriod": {
+            "icon": 7.47,
+            "meteo": 5.93,
+            "noaa": 7.95,
+            "sg": 5.93
+         },
+         "time": "2021-07-29T00:00:00+00:00",
+         "windDirection": {
+            "icon": 94.6,
+            "noaa": 134.41,
+            "sg": 94.6
+         },
+         "windSpeed": {
+            "icon": 2.72,
+            "noaa": 4.92,
+            "sg": 2.72
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 125.41,
+            "meteo": 148.97,
+            "noaa": 118.98,
+            "sg": 148.97
+         },
+         "swellHeight": {
+            "icon": 0.51,
+            "meteo": 0.57,
+            "noaa": 0.47,
+            "sg": 0.57
+         },
+         "swellPeriod": {
+            "icon": 7.31,
+            "meteo": 5.94,
+            "noaa": 6.76,
+            "sg": 5.94
+         },
+         "time": "2021-07-29T01:00:00+00:00",
+         "windDirection": {
+            "icon": 117.76,
+            "noaa": 140.24,
+            "sg": 117.76
+         },
+         "windSpeed": {
+            "icon": 3.19,
+            "noaa": 4.92,
+            "sg": 3.19
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 119.9,
+            "meteo": 148.74,
+            "noaa": 103.42,
+            "sg": 148.74
+         },
+         "swellHeight": {
+            "icon": 0.5,
+            "meteo": 0.56,
+            "noaa": 0.51,
+            "sg": 0.56
+         },
+         "swellPeriod": {
+            "icon": 7.15,
+            "meteo": 5.96,
+            "noaa": 5.58,
+            "sg": 5.96
+         },
+         "time": "2021-07-29T02:00:00+00:00",
+         "windDirection": {
+            "icon": 140.93,
+            "noaa": 146.08,
+            "sg": 140.93
+         },
+         "windSpeed": {
+            "icon": 3.65,
+            "noaa": 4.92,
+            "sg": 3.65
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 114.39,
+            "meteo": 148.5,
+            "noaa": 87.86,
+            "sg": 148.5
+         },
+         "swellHeight": {
+            "icon": 0.5,
+            "meteo": 0.56,
+            "noaa": 0.54,
+            "sg": 0.56
+         },
+         "swellPeriod": {
+            "icon": 6.99,
+            "meteo": 5.97,
+            "noaa": 4.39,
+            "sg": 5.97
+         },
+         "time": "2021-07-29T03:00:00+00:00",
+         "windDirection": {
+            "icon": 164.09,
+            "noaa": 151.91,
+            "sg": 164.09
+         },
+         "windSpeed": {
+            "icon": 4.12,
+            "noaa": 4.92,
+            "sg": 4.12
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 114.87,
+            "meteo": 148.52,
+            "noaa": 86.88,
+            "sg": 148.52
+         },
+         "swellHeight": {
+            "icon": 0.5,
+            "meteo": 0.56,
+            "noaa": 0.53,
+            "sg": 0.56
+         },
+         "swellPeriod": {
+            "icon": 6.96,
+            "meteo": 5.96,
+            "noaa": 4.43,
+            "sg": 5.96
+         },
+         "time": "2021-07-29T04:00:00+00:00",
+         "windDirection": {
+            "icon": 163.61,
+            "noaa": 161.76,
+            "sg": 163.61
+         },
+         "windSpeed": {
+            "icon": 4.4,
+            "noaa": 5.05,
+            "sg": 4.4
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 115.36,
+            "meteo": 148.53,
+            "noaa": 85.89,
+            "sg": 148.53
+         },
+         "swellHeight": {
+            "icon": 0.49,
+            "meteo": 0.55,
+            "noaa": 0.51,
+            "sg": 0.55
+         },
+         "swellPeriod": {
+            "icon": 6.92,
+            "meteo": 5.94,
+            "noaa": 4.47,
+            "sg": 5.94
+         },
+         "time": "2021-07-29T05:00:00+00:00",
+         "windDirection": {
+            "icon": 163.14,
+            "noaa": 171.62,
+            "sg": 163.14
+         },
+         "windSpeed": {
+            "icon": 4.69,
+            "noaa": 5.17,
+            "sg": 4.69
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 115.84,
+            "meteo": 148.55,
+            "noaa": 84.91,
+            "sg": 148.55
+         },
+         "swellHeight": {
+            "icon": 0.49,
+            "meteo": 0.55,
+            "noaa": 0.5,
+            "sg": 0.55
+         },
+         "swellPeriod": {
+            "icon": 6.89,
+            "meteo": 5.93,
+            "noaa": 4.51,
+            "sg": 5.93
+         },
+         "time": "2021-07-29T06:00:00+00:00",
+         "windDirection": {
+            "icon": 162.66,
+            "noaa": 181.47,
+            "sg": 162.66
+         },
+         "windSpeed": {
+            "icon": 4.98,
+            "noaa": 5.3,
+            "sg": 4.98
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 111.27,
+            "meteo": 145.97,
+            "noaa": 101.36,
+            "sg": 145.97
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.53,
+            "noaa": 0.49,
+            "sg": 0.53
+         },
+         "swellPeriod": {
+            "icon": 6.46,
+            "meteo": 6.19,
+            "noaa": 5.53,
+            "sg": 6.19
+         },
+         "time": "2021-07-29T07:00:00+00:00",
+         "windDirection": {
+            "icon": 147.48,
+            "noaa": 182.62,
+            "sg": 147.48
+         },
+         "windSpeed": {
+            "icon": 4.45,
+            "noaa": 5.29,
+            "sg": 4.45
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 106.69,
+            "meteo": 143.4,
+            "noaa": 117.82,
+            "sg": 143.4
+         },
+         "swellHeight": {
+            "icon": 0.6,
+            "meteo": 0.5,
+            "noaa": 0.48,
+            "sg": 0.5
+         },
+         "swellPeriod": {
+            "icon": 6.04,
+            "meteo": 6.44,
+            "noaa": 6.54,
+            "sg": 6.44
+         },
+         "time": "2021-07-29T08:00:00+00:00",
+         "windDirection": {
+            "icon": 132.3,
+            "noaa": 183.78,
+            "sg": 132.3
+         },
+         "windSpeed": {
+            "icon": 3.92,
+            "noaa": 5.29,
+            "sg": 3.92
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 102.12,
+            "meteo": 140.82,
+            "noaa": 134.27,
+            "sg": 140.82
+         },
+         "swellHeight": {
+            "icon": 0.66,
+            "meteo": 0.48,
+            "noaa": 0.47,
+            "sg": 0.48
+         },
+         "swellPeriod": {
+            "icon": 5.61,
+            "meteo": 6.7,
+            "noaa": 7.56,
+            "sg": 6.7
+         },
+         "time": "2021-07-29T09:00:00+00:00",
+         "windDirection": {
+            "icon": 117.12,
+            "noaa": 184.93,
+            "sg": 117.12
+         },
+         "windSpeed": {
+            "icon": 3.4,
+            "noaa": 5.28,
+            "sg": 3.4
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 102.44,
+            "meteo": 143.07,
+            "noaa": 134.13,
+            "sg": 143.07
+         },
+         "swellHeight": {
+            "icon": 0.64,
+            "meteo": 0.47,
+            "noaa": 0.47,
+            "sg": 0.47
+         },
+         "swellPeriod": {
+            "icon": 5.74,
+            "meteo": 6.65,
+            "noaa": 7.52,
+            "sg": 6.65
+         },
+         "time": "2021-07-29T10:00:00+00:00",
+         "windDirection": {
+            "icon": 118.93,
+            "noaa": 187.24,
+            "sg": 118.93
+         },
+         "windSpeed": {
+            "icon": 3.75,
+            "noaa": 6.02,
+            "sg": 3.75
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 102.75,
+            "meteo": 145.31,
+            "noaa": 133.98,
+            "sg": 145.31
+         },
+         "swellHeight": {
+            "icon": 0.63,
+            "meteo": 0.45,
+            "noaa": 0.48,
+            "sg": 0.45
+         },
+         "swellPeriod": {
+            "icon": 5.87,
+            "meteo": 6.6,
+            "noaa": 7.48,
+            "sg": 6.6
+         },
+         "time": "2021-07-29T11:00:00+00:00",
+         "windDirection": {
+            "icon": 120.74,
+            "noaa": 189.55,
+            "sg": 120.74
+         },
+         "windSpeed": {
+            "icon": 4.1,
+            "noaa": 6.75,
+            "sg": 4.1
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 103.07,
+            "meteo": 147.56,
+            "noaa": 133.84,
+            "sg": 147.56
+         },
+         "swellHeight": {
+            "icon": 0.61,
+            "meteo": 0.44,
+            "noaa": 0.48,
+            "sg": 0.44
+         },
+         "swellPeriod": {
+            "icon": 6.0,
+            "meteo": 6.55,
+            "noaa": 7.44,
+            "sg": 6.55
+         },
+         "time": "2021-07-29T12:00:00+00:00",
+         "windDirection": {
+            "icon": 122.55,
+            "noaa": 191.86,
+            "sg": 122.55
+         },
+         "windSpeed": {
+            "icon": 4.45,
+            "noaa": 7.49,
+            "sg": 4.45
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 104.44,
+            "meteo": 149.73,
+            "noaa": 127.82,
+            "sg": 149.73
+         },
+         "swellHeight": {
+            "icon": 0.6,
+            "meteo": 0.46,
+            "noaa": 0.39,
+            "sg": 0.46
+         },
+         "swellPeriod": {
+            "icon": 5.98,
+            "meteo": 6.31,
+            "noaa": 8.21,
+            "sg": 6.31
+         },
+         "time": "2021-07-29T13:00:00+00:00",
+         "windDirection": {
+            "icon": 131.85,
+            "noaa": 189.84,
+            "sg": 131.85
+         },
+         "windSpeed": {
+            "icon": 4.32,
+            "noaa": 7.75,
+            "sg": 4.32
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 105.81,
+            "meteo": 151.89,
+            "noaa": 121.8,
+            "sg": 151.89
+         },
+         "swellHeight": {
+            "icon": 0.6,
+            "meteo": 0.47,
+            "noaa": 0.29,
+            "sg": 0.47
+         },
+         "swellPeriod": {
+            "icon": 5.97,
+            "meteo": 6.07,
+            "noaa": 8.98,
+            "sg": 6.07
+         },
+         "time": "2021-07-29T14:00:00+00:00",
+         "windDirection": {
+            "icon": 141.16,
+            "noaa": 187.82,
+            "sg": 141.16
+         },
+         "windSpeed": {
+            "icon": 4.2,
+            "noaa": 8.01,
+            "sg": 4.2
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 107.18,
+            "meteo": 154.06,
+            "noaa": 115.78,
+            "sg": 154.06
+         },
+         "swellHeight": {
+            "icon": 0.59,
+            "meteo": 0.49,
+            "noaa": 0.2,
+            "sg": 0.49
+         },
+         "swellPeriod": {
+            "icon": 5.95,
+            "meteo": 5.83,
+            "noaa": 9.75,
+            "sg": 5.83
+         },
+         "time": "2021-07-29T15:00:00+00:00",
+         "windDirection": {
+            "icon": 150.46,
+            "noaa": 185.8,
+            "sg": 150.46
+         },
+         "windSpeed": {
+            "icon": 4.08,
+            "noaa": 8.27,
+            "sg": 4.08
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 107.98,
+            "meteo": 154.0,
+            "noaa": 121.3,
+            "sg": 154.0
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "meteo": 0.49,
+            "noaa": 0.3,
+            "sg": 0.49
+         },
+         "swellPeriod": {
+            "icon": 6.04,
+            "meteo": 5.7,
+            "noaa": 8.98,
+            "sg": 5.7
+         },
+         "time": "2021-07-29T16:00:00+00:00",
+         "windDirection": {
+            "icon": 157.8,
+            "noaa": 187.61,
+            "sg": 157.8
+         },
+         "windSpeed": {
+            "icon": 4.41,
+            "noaa": 8.62,
+            "sg": 4.41
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 108.79,
+            "meteo": 153.93,
+            "noaa": 126.83,
+            "sg": 153.93
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.5,
+            "noaa": 0.4,
+            "sg": 0.5
+         },
+         "swellPeriod": {
+            "icon": 6.14,
+            "meteo": 5.56,
+            "noaa": 8.2,
+            "sg": 5.56
+         },
+         "time": "2021-07-29T17:00:00+00:00",
+         "windDirection": {
+            "icon": 165.14,
+            "noaa": 189.42,
+            "sg": 165.14
+         },
+         "windSpeed": {
+            "icon": 4.74,
+            "noaa": 8.98,
+            "sg": 4.74
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 109.59,
+            "meteo": 153.87,
+            "noaa": 132.35,
+            "sg": 153.87
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.5,
+            "noaa": 0.5,
+            "sg": 0.5
+         },
+         "swellPeriod": {
+            "icon": 6.23,
+            "meteo": 5.43,
+            "noaa": 7.43,
+            "sg": 5.43
+         },
+         "time": "2021-07-29T18:00:00+00:00",
+         "windDirection": {
+            "icon": 172.48,
+            "noaa": 191.23,
+            "sg": 172.48
+         },
+         "windSpeed": {
+            "icon": 5.07,
+            "noaa": 9.33,
+            "sg": 5.07
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 111.17,
+            "meteo": 151.42,
+            "noaa": 112.43,
+            "sg": 151.42
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.47,
+            "noaa": 0.41,
+            "sg": 0.47
+         },
+         "swellPeriod": {
+            "icon": 6.31,
+            "meteo": 5.77,
+            "noaa": 6.46,
+            "sg": 5.77
+         },
+         "time": "2021-07-29T19:00:00+00:00",
+         "windDirection": {
+            "icon": 174.04,
+            "noaa": 198.76,
+            "sg": 174.04
+         },
+         "windSpeed": {
+            "icon": 5.33,
+            "noaa": 8.91,
+            "sg": 5.33
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 112.75,
+            "meteo": 148.96,
+            "noaa": 92.5,
+            "sg": 148.96
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.43,
+            "noaa": 0.32,
+            "sg": 0.43
+         },
+         "swellPeriod": {
+            "icon": 6.4,
+            "meteo": 6.1,
+            "noaa": 5.5,
+            "sg": 6.1
+         },
+         "time": "2021-07-29T20:00:00+00:00",
+         "windDirection": {
+            "icon": 175.6,
+            "noaa": 206.3,
+            "sg": 175.6
+         },
+         "windSpeed": {
+            "icon": 5.6,
+            "noaa": 8.49,
+            "sg": 5.6
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 114.33,
+            "meteo": 146.51,
+            "noaa": 72.58,
+            "sg": 146.51
+         },
+         "swellHeight": {
+            "icon": 0.53,
+            "meteo": 0.4,
+            "noaa": 0.23,
+            "sg": 0.4
+         },
+         "swellPeriod": {
+            "icon": 6.48,
+            "meteo": 6.44,
+            "noaa": 4.53,
+            "sg": 6.44
+         },
+         "time": "2021-07-29T21:00:00+00:00",
+         "windDirection": {
+            "icon": 177.16,
+            "noaa": 213.83,
+            "sg": 177.16
+         },
+         "windSpeed": {
+            "icon": 5.86,
+            "noaa": 8.07,
+            "sg": 5.86
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 116.44,
+            "meteo": 147.07,
+            "noaa": 72.1,
+            "sg": 147.07
+         },
+         "swellHeight": {
+            "icon": 0.52,
+            "meteo": 0.39,
+            "noaa": 0.21,
+            "sg": 0.39
+         },
+         "swellPeriod": {
+            "icon": 6.53,
+            "meteo": 6.24,
+            "noaa": 4.48,
+            "sg": 6.24
+         },
+         "time": "2021-07-29T22:00:00+00:00",
+         "windDirection": {
+            "icon": 181.1,
+            "noaa": 219.56,
+            "sg": 181.1
+         },
+         "windSpeed": {
+            "icon": 6.16,
+            "noaa": 7.16,
+            "sg": 6.16
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 118.54,
+            "meteo": 147.64,
+            "noaa": 71.63,
+            "sg": 147.64
+         },
+         "swellHeight": {
+            "icon": 0.52,
+            "meteo": 0.39,
+            "noaa": 0.19,
+            "sg": 0.39
+         },
+         "swellPeriod": {
+            "icon": 6.57,
+            "meteo": 6.03,
+            "noaa": 4.43,
+            "sg": 6.03
+         },
+         "time": "2021-07-29T23:00:00+00:00",
+         "windDirection": {
+            "icon": 185.04,
+            "noaa": 225.3,
+            "sg": 185.04
+         },
+         "windSpeed": {
+            "icon": 6.47,
+            "noaa": 6.25,
+            "sg": 6.47
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 120.65,
+            "meteo": 148.2,
+            "noaa": 71.15,
+            "sg": 148.2
+         },
+         "swellHeight": {
+            "icon": 0.51,
+            "meteo": 0.38,
+            "noaa": 0.17,
+            "sg": 0.38
+         },
+         "swellPeriod": {
+            "icon": 6.62,
+            "meteo": 5.83,
+            "noaa": 4.38,
+            "sg": 5.83
+         },
+         "time": "2021-07-30T00:00:00+00:00",
+         "windDirection": {
+            "icon": 188.98,
+            "noaa": 231.03,
+            "sg": 188.98
+         },
+         "windSpeed": {
+            "icon": 6.77,
+            "noaa": 5.34,
+            "sg": 6.77
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 131.25,
+            "meteo": 147.2,
+            "noaa": 70.92,
+            "sg": 147.2
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "meteo": 0.37,
+            "noaa": 0.16,
+            "sg": 0.37
+         },
+         "swellPeriod": {
+            "icon": 6.19,
+            "meteo": 5.86,
+            "noaa": 4.35,
+            "sg": 5.86
+         },
+         "time": "2021-07-30T01:00:00+00:00",
+         "windDirection": {
+            "icon": 198.49,
+            "noaa": 235.03,
+            "sg": 198.49
+         },
+         "windSpeed": {
+            "icon": 6.34,
+            "noaa": 4.84,
+            "sg": 6.34
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 141.84,
+            "meteo": 146.21,
+            "noaa": 70.7,
+            "sg": 146.21
+         },
+         "swellHeight": {
+            "icon": 0.66,
+            "meteo": 0.35,
+            "noaa": 0.14,
+            "sg": 0.35
+         },
+         "swellPeriod": {
+            "icon": 5.77,
+            "meteo": 5.89,
+            "noaa": 4.31,
+            "sg": 5.89
+         },
+         "time": "2021-07-30T02:00:00+00:00",
+         "windDirection": {
+            "icon": 207.99,
+            "noaa": 239.03,
+            "sg": 207.99
+         },
+         "windSpeed": {
+            "icon": 5.9,
+            "noaa": 4.35,
+            "sg": 5.9
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.44,
+            "meteo": 145.21,
+            "noaa": 70.47,
+            "sg": 145.21
+         },
+         "swellHeight": {
+            "icon": 0.73,
+            "meteo": 0.34,
+            "noaa": 0.13,
+            "sg": 0.34
+         },
+         "swellPeriod": {
+            "icon": 5.34,
+            "meteo": 5.92,
+            "noaa": 4.28,
+            "sg": 5.92
+         },
+         "time": "2021-07-30T03:00:00+00:00",
+         "windDirection": {
+            "icon": 217.5,
+            "noaa": 243.03,
+            "sg": 217.5
+         },
+         "windSpeed": {
+            "icon": 5.47,
+            "noaa": 3.85,
+            "sg": 5.47
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 154.75,
+            "meteo": 155.95,
+            "noaa": 102.96,
+            "sg": 155.95
+         },
+         "swellHeight": {
+            "icon": 0.74,
+            "meteo": 0.34,
+            "noaa": 0.44,
+            "sg": 0.34
+         },
+         "swellPeriod": {
+            "icon": 5.36,
+            "meteo": 5.2,
+            "noaa": 4.81,
+            "sg": 5.2
+         },
+         "time": "2021-07-30T04:00:00+00:00",
+         "windDirection": {
+            "icon": 230.28,
+            "noaa": 252.76,
+            "sg": 230.28
+         },
+         "windSpeed": {
+            "icon": 4.94,
+            "noaa": 4.28,
+            "sg": 4.94
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 157.06,
+            "meteo": 166.68,
+            "noaa": 135.46,
+            "sg": 166.68
+         },
+         "swellHeight": {
+            "icon": 0.75,
+            "meteo": 0.35,
+            "noaa": 0.74,
+            "sg": 0.35
+         },
+         "swellPeriod": {
+            "icon": 5.37,
+            "meteo": 4.48,
+            "noaa": 5.33,
+            "sg": 4.48
+         },
+         "time": "2021-07-30T05:00:00+00:00",
+         "windDirection": {
+            "icon": 243.05,
+            "noaa": 262.5,
+            "sg": 243.05
+         },
+         "windSpeed": {
+            "icon": 4.4,
+            "noaa": 4.7,
+            "sg": 4.4
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 159.37,
+            "meteo": 177.42,
+            "noaa": 167.95,
+            "sg": 177.42
+         },
+         "swellHeight": {
+            "icon": 0.76,
+            "meteo": 0.35,
+            "noaa": 1.05,
+            "sg": 0.35
+         },
+         "swellPeriod": {
+            "icon": 5.39,
+            "meteo": 3.76,
+            "noaa": 5.86,
+            "sg": 3.76
+         },
+         "time": "2021-07-30T06:00:00+00:00",
+         "windDirection": {
+            "icon": 255.83,
+            "noaa": 272.23,
+            "sg": 255.83
+         },
+         "windSpeed": {
+            "icon": 3.87,
+            "noaa": 5.13,
+            "sg": 3.87
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 158.34,
+            "meteo": 176.17,
+            "noaa": 165.84,
+            "sg": 176.17
+         },
+         "swellHeight": {
+            "icon": 0.74,
+            "meteo": 0.37,
+            "noaa": 0.99,
+            "sg": 0.37
+         },
+         "swellPeriod": {
+            "icon": 5.52,
+            "meteo": 3.73,
+            "noaa": 5.95,
+            "sg": 3.73
+         },
+         "time": "2021-07-30T07:00:00+00:00",
+         "windDirection": {
+            "icon": 259.33,
+            "noaa": 284.99,
+            "sg": 259.33
+         },
+         "windSpeed": {
+            "icon": 3.95,
+            "noaa": 5.4,
+            "sg": 3.95
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 157.3,
+            "meteo": 174.91,
+            "noaa": 163.72,
+            "sg": 174.91
+         },
+         "swellHeight": {
+            "icon": 0.71,
+            "meteo": 0.4,
+            "noaa": 0.92,
+            "sg": 0.4
+         },
+         "swellPeriod": {
+            "icon": 5.65,
+            "meteo": 3.7,
+            "noaa": 6.05,
+            "sg": 3.7
+         },
+         "time": "2021-07-30T08:00:00+00:00",
+         "windDirection": {
+            "icon": 262.83,
+            "noaa": 297.74,
+            "sg": 262.83
+         },
+         "windSpeed": {
+            "icon": 4.04,
+            "noaa": 5.67,
+            "sg": 4.04
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 156.27,
+            "meteo": 173.66,
+            "noaa": 161.61,
+            "sg": 173.66
+         },
+         "swellHeight": {
+            "icon": 0.69,
+            "meteo": 0.42,
+            "noaa": 0.86,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.78,
+            "meteo": 3.67,
+            "noaa": 6.14,
+            "sg": 3.67
+         },
+         "time": "2021-07-30T09:00:00+00:00",
+         "windDirection": {
+            "icon": 266.33,
+            "noaa": 310.5,
+            "sg": 266.33
+         },
+         "windSpeed": {
+            "icon": 4.12,
+            "noaa": 5.94,
+            "sg": 4.12
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 155.73,
+            "meteo": 172.32,
+            "noaa": 130.61,
+            "sg": 172.32
+         },
+         "swellHeight": {
+            "icon": 0.68,
+            "meteo": 0.46,
+            "noaa": 0.59,
+            "sg": 0.46
+         },
+         "swellPeriod": {
+            "icon": 5.87,
+            "meteo": 3.82,
+            "noaa": 5.43,
+            "sg": 3.82
+         },
+         "time": "2021-07-30T10:00:00+00:00",
+         "windDirection": {
+            "icon": 275.65,
+            "noaa": 330.48,
+            "sg": 275.65
+         },
+         "windSpeed": {
+            "icon": 4.15,
+            "noaa": 6.41,
+            "sg": 4.15
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 155.19,
+            "meteo": 170.97,
+            "noaa": 99.62,
+            "sg": 170.97
+         },
+         "swellHeight": {
+            "icon": 0.66,
+            "meteo": 0.49,
+            "noaa": 0.32,
+            "sg": 0.49
+         },
+         "swellPeriod": {
+            "icon": 5.95,
+            "meteo": 3.98,
+            "noaa": 4.72,
+            "sg": 3.98
+         },
+         "time": "2021-07-30T11:00:00+00:00",
+         "windDirection": {
+            "icon": 284.98,
+            "noaa": 350.46,
+            "sg": 284.98
+         },
+         "windSpeed": {
+            "icon": 4.19,
+            "noaa": 6.87,
+            "sg": 4.19
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 154.65,
+            "meteo": 169.63,
+            "noaa": 68.62,
+            "sg": 169.63
+         },
+         "swellHeight": {
+            "icon": 0.65,
+            "meteo": 0.53,
+            "noaa": 0.05,
+            "sg": 0.53
+         },
+         "swellPeriod": {
+            "icon": 6.04,
+            "meteo": 4.13,
+            "noaa": 4.01,
+            "sg": 4.13
+         },
+         "time": "2021-07-30T12:00:00+00:00",
+         "windDirection": {
+            "icon": 294.3,
+            "noaa": 10.44,
+            "sg": 294.3
+         },
+         "windSpeed": {
+            "icon": 4.22,
+            "noaa": 7.34,
+            "sg": 4.22
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 154.24,
+            "meteo": 170.16,
+            "noaa": 98.72,
+            "sg": 170.16
+         },
+         "swellHeight": {
+            "icon": 0.64,
+            "meteo": 0.54,
+            "noaa": 0.25,
+            "sg": 0.54
+         },
+         "swellPeriod": {
+            "icon": 6.12,
+            "meteo": 4.16,
+            "noaa": 4.8,
+            "sg": 4.16
+         },
+         "time": "2021-07-30T13:00:00+00:00",
+         "windDirection": {
+            "icon": 299.47,
+            "noaa": 13.35,
+            "sg": 299.47
+         },
+         "windSpeed": {
+            "icon": 4.59,
+            "noaa": 7.4,
+            "sg": 4.59
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 153.83,
+            "meteo": 170.69,
+            "noaa": 128.83,
+            "sg": 170.69
+         },
+         "swellHeight": {
+            "icon": 0.62,
+            "meteo": 0.56,
+            "noaa": 0.46,
+            "sg": 0.56
+         },
+         "swellPeriod": {
+            "icon": 6.2,
+            "meteo": 4.19,
+            "noaa": 5.58,
+            "sg": 4.19
+         },
+         "time": "2021-07-30T14:00:00+00:00",
+         "windDirection": {
+            "icon": 304.64,
+            "noaa": 16.26,
+            "sg": 304.64
+         },
+         "windSpeed": {
+            "icon": 4.96,
+            "noaa": 7.45,
+            "sg": 4.96
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 153.42,
+            "meteo": 171.22,
+            "noaa": 158.93,
+            "sg": 171.22
+         },
+         "swellHeight": {
+            "icon": 0.61,
+            "meteo": 0.57,
+            "noaa": 0.66,
+            "sg": 0.57
+         },
+         "swellPeriod": {
+            "icon": 6.28,
+            "meteo": 4.22,
+            "noaa": 6.37,
+            "sg": 4.22
+         },
+         "time": "2021-07-30T15:00:00+00:00",
+         "windDirection": {
+            "icon": 309.81,
+            "noaa": 19.17,
+            "sg": 309.81
+         },
+         "windSpeed": {
+            "icon": 5.33,
+            "noaa": 7.51,
+            "sg": 5.33
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.84,
+            "meteo": 171.32,
+            "noaa": 157.89,
+            "sg": 171.32
+         },
+         "swellHeight": {
+            "icon": 0.6,
+            "meteo": 0.58,
+            "noaa": 0.66,
+            "sg": 0.58
+         },
+         "swellPeriod": {
+            "icon": 6.28,
+            "meteo": 4.34,
+            "noaa": 6.4,
+            "sg": 4.34
+         },
+         "time": "2021-07-30T16:00:00+00:00",
+         "windDirection": {
+            "icon": 307.73,
+            "noaa": 29.1,
+            "sg": 307.73
+         },
+         "windSpeed": {
+            "icon": 5.27,
+            "noaa": 6.95,
+            "sg": 5.27
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.27,
+            "meteo": 171.43,
+            "noaa": 156.84,
+            "sg": 171.43
+         },
+         "swellHeight": {
+            "icon": 0.59,
+            "meteo": 0.6,
+            "noaa": 0.66,
+            "sg": 0.6
+         },
+         "swellPeriod": {
+            "icon": 6.29,
+            "meteo": 4.45,
+            "noaa": 6.43,
+            "sg": 4.45
+         },
+         "time": "2021-07-30T17:00:00+00:00",
+         "windDirection": {
+            "icon": 305.66,
+            "noaa": 39.04,
+            "sg": 305.66
+         },
+         "windSpeed": {
+            "icon": 5.22,
+            "noaa": 6.38,
+            "sg": 5.22
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 151.69,
+            "meteo": 171.53,
+            "noaa": 155.8,
+            "sg": 171.53
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "meteo": 0.61,
+            "noaa": 0.66,
+            "sg": 0.61
+         },
+         "swellPeriod": {
+            "icon": 6.29,
+            "meteo": 4.57,
+            "noaa": 6.46,
+            "sg": 4.57
+         },
+         "time": "2021-07-30T18:00:00+00:00",
+         "windDirection": {
+            "icon": 303.58,
+            "noaa": 48.97,
+            "sg": 303.58
+         },
+         "windSpeed": {
+            "icon": 5.16,
+            "noaa": 5.82,
+            "sg": 5.16
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 151.91,
+            "meteo": 171.9,
+            "noaa": 155.09,
+            "sg": 171.9
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "meteo": 0.63,
+            "noaa": 0.65,
+            "sg": 0.63
+         },
+         "swellPeriod": {
+            "icon": 6.22,
+            "meteo": 4.59,
+            "noaa": 6.46,
+            "sg": 4.59
+         },
+         "time": "2021-07-30T19:00:00+00:00",
+         "windDirection": {
+            "icon": 305.49,
+            "noaa": 33.1,
+            "sg": 305.49
+         },
+         "windSpeed": {
+            "icon": 5.0,
+            "noaa": 4.93,
+            "sg": 5.0
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.13,
+            "meteo": 172.26,
+            "noaa": 154.38,
+            "sg": 172.26
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.65,
+            "noaa": 0.64,
+            "sg": 0.65
+         },
+         "swellPeriod": {
+            "icon": 6.15,
+            "meteo": 4.61,
+            "noaa": 6.46,
+            "sg": 4.61
+         },
+         "time": "2021-07-30T20:00:00+00:00",
+         "windDirection": {
+            "icon": 307.41,
+            "noaa": 17.22,
+            "sg": 307.41
+         },
+         "windSpeed": {
+            "icon": 4.84,
+            "noaa": 4.04,
+            "sg": 4.84
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.35,
+            "meteo": 172.63,
+            "noaa": 153.67,
+            "sg": 172.63
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.67,
+            "noaa": 0.63,
+            "sg": 0.67
+         },
+         "swellPeriod": {
+            "icon": 6.08,
+            "meteo": 4.63,
+            "noaa": 6.46,
+            "sg": 4.63
+         },
+         "time": "2021-07-30T21:00:00+00:00",
+         "windDirection": {
+            "icon": 309.32,
+            "noaa": 1.35,
+            "sg": 309.32
+         },
+         "windSpeed": {
+            "icon": 4.68,
+            "noaa": 3.15,
+            "sg": 4.68
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.43,
+            "meteo": 175.78,
+            "noaa": 153.67,
+            "sg": 175.78
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.65,
+            "noaa": 0.64,
+            "sg": 0.65
+         },
+         "swellPeriod": {
+            "icon": 6.03,
+            "meteo": 4.43,
+            "noaa": 6.5,
+            "sg": 4.43
+         },
+         "time": "2021-07-30T22:00:00+00:00",
+         "windDirection": {
+            "icon": 318.71,
+            "noaa": 353.5,
+            "sg": 318.71
+         },
+         "windSpeed": {
+            "icon": 4.7,
+            "noaa": 3.53,
+            "sg": 4.7
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.51,
+            "meteo": 178.93,
+            "noaa": 153.67,
+            "sg": 178.93
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.64,
+            "noaa": 0.65,
+            "sg": 0.64
+         },
+         "swellPeriod": {
+            "icon": 5.99,
+            "meteo": 4.23,
+            "noaa": 6.55,
+            "sg": 4.23
+         },
+         "time": "2021-07-30T23:00:00+00:00",
+         "windDirection": {
+            "icon": 328.09,
+            "noaa": 345.64,
+            "sg": 328.09
+         },
+         "windSpeed": {
+            "icon": 4.71,
+            "noaa": 3.92,
+            "sg": 4.71
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.59,
+            "meteo": 182.08,
+            "noaa": 153.67,
+            "sg": 182.08
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "meteo": 0.62,
+            "noaa": 0.66,
+            "sg": 0.62
+         },
+         "swellPeriod": {
+            "icon": 5.94,
+            "meteo": 4.03,
+            "noaa": 6.59,
+            "sg": 4.03
+         },
+         "time": "2021-07-31T00:00:00+00:00",
+         "windDirection": {
+            "icon": 337.48,
+            "noaa": 337.79,
+            "sg": 337.48
+         },
+         "windSpeed": {
+            "icon": 4.73,
+            "noaa": 4.3,
+            "sg": 4.73
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 151.43,
+            "meteo": 179.94,
+            "noaa": 154.08,
+            "sg": 179.94
+         },
+         "swellHeight": {
+            "icon": 0.51,
+            "meteo": 0.65,
+            "noaa": 0.68,
+            "sg": 0.65
+         },
+         "swellPeriod": {
+            "icon": 6.25,
+            "meteo": 4.22,
+            "noaa": 6.84,
+            "sg": 4.22
+         },
+         "time": "2021-07-31T01:00:00+00:00",
+         "windDirection": {
+            "icon": 343.64,
+            "noaa": 343.81,
+            "sg": 343.64
+         },
+         "windSpeed": {
+            "icon": 6.21,
+            "noaa": 5.28,
+            "sg": 6.21
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 150.26,
+            "meteo": 177.81,
+            "noaa": 154.48,
+            "sg": 177.81
+         },
+         "swellHeight": {
+            "icon": 0.48,
+            "meteo": 0.67,
+            "noaa": 0.7,
+            "sg": 0.67
+         },
+         "swellPeriod": {
+            "icon": 6.57,
+            "meteo": 4.41,
+            "noaa": 7.09,
+            "sg": 4.41
+         },
+         "time": "2021-07-31T02:00:00+00:00",
+         "windDirection": {
+            "icon": 349.8,
+            "noaa": 349.82,
+            "sg": 349.8
+         },
+         "windSpeed": {
+            "icon": 7.69,
+            "noaa": 6.27,
+            "sg": 7.69
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 149.1,
+            "meteo": 175.67,
+            "noaa": 154.89,
+            "sg": 175.67
+         },
+         "swellHeight": {
+            "icon": 0.44,
+            "meteo": 0.7,
+            "noaa": 0.72,
+            "sg": 0.7
+         },
+         "swellPeriod": {
+            "icon": 6.88,
+            "meteo": 4.6,
+            "noaa": 7.34,
+            "sg": 4.6
+         },
+         "time": "2021-07-31T03:00:00+00:00",
+         "windDirection": {
+            "icon": 355.96,
+            "noaa": 355.84,
+            "sg": 355.96
+         },
+         "windSpeed": {
+            "icon": 9.17,
+            "noaa": 7.25,
+            "sg": 9.17
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 117.42,
+            "meteo": 174.67,
+            "noaa": 154.79,
+            "sg": 174.67
+         },
+         "swellHeight": {
+            "icon": 0.49,
+            "meteo": 0.68,
+            "noaa": 0.72,
+            "sg": 0.68
+         },
+         "swellPeriod": {
+            "icon": 6.49,
+            "meteo": 4.66,
+            "noaa": 7.34,
+            "sg": 4.66
+         },
+         "time": "2021-07-31T04:00:00+00:00",
+         "windDirection": {
+            "icon": 353.34,
+            "noaa": 359.13,
+            "sg": 353.34
+         },
+         "windSpeed": {
+            "icon": 8.2,
+            "noaa": 6.25,
+            "sg": 8.2
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 85.73,
+            "meteo": 173.67,
+            "noaa": 154.68,
+            "sg": 173.67
+         },
+         "swellHeight": {
+            "icon": 0.53,
+            "meteo": 0.65,
+            "noaa": 0.73,
+            "sg": 0.65
+         },
+         "swellPeriod": {
+            "icon": 6.11,
+            "meteo": 4.73,
+            "noaa": 7.33,
+            "sg": 4.73
+         },
+         "time": "2021-07-31T05:00:00+00:00",
+         "windDirection": {
+            "icon": 350.71,
+            "noaa": 2.42,
+            "sg": 350.71
+         },
+         "windSpeed": {
+            "icon": 7.23,
+            "noaa": 5.25,
+            "sg": 7.23
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 54.05,
+            "meteo": 172.67,
+            "noaa": 154.58,
+            "sg": 172.67
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "meteo": 0.63,
+            "noaa": 0.73,
+            "sg": 0.63
+         },
+         "swellPeriod": {
+            "icon": 5.72,
+            "meteo": 4.79,
+            "noaa": 7.33,
+            "sg": 4.79
+         },
+         "time": "2021-07-31T06:00:00+00:00",
+         "windDirection": {
+            "icon": 348.09,
+            "noaa": 5.71,
+            "sg": 348.09
+         },
+         "windSpeed": {
+            "icon": 6.26,
+            "noaa": 4.25,
+            "sg": 6.26
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 49.85,
+            "meteo": 171.77,
+            "noaa": 154.49,
+            "sg": 171.77
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.62,
+            "noaa": 0.72,
+            "sg": 0.62
+         },
+         "swellPeriod": {
+            "icon": 5.62,
+            "meteo": 4.87,
+            "noaa": 7.32,
+            "sg": 4.87
+         },
+         "time": "2021-07-31T07:00:00+00:00",
+         "windDirection": {
+            "icon": 342.42,
+            "noaa": 13.93,
+            "sg": 342.42
+         },
+         "windSpeed": {
+            "icon": 6.01,
+            "noaa": 4.24,
+            "sg": 6.01
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 45.64,
+            "meteo": 170.88,
+            "noaa": 154.39,
+            "sg": 170.88
+         },
+         "swellHeight": {
+            "icon": 0.57,
+            "meteo": 0.6,
+            "noaa": 0.71,
+            "sg": 0.6
+         },
+         "swellPeriod": {
+            "icon": 5.53,
+            "meteo": 4.96,
+            "noaa": 7.32,
+            "sg": 4.96
+         },
+         "time": "2021-07-31T08:00:00+00:00",
+         "windDirection": {
+            "icon": 336.74,
+            "noaa": 22.15,
+            "sg": 336.74
+         },
+         "windSpeed": {
+            "icon": 5.76,
+            "noaa": 4.23,
+            "sg": 5.76
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 41.44,
+            "meteo": 169.98,
+            "noaa": 154.3,
+            "sg": 169.98
+         },
+         "swellHeight": {
+            "icon": 0.56,
+            "meteo": 0.59,
+            "noaa": 0.7,
+            "sg": 0.59
+         },
+         "swellPeriod": {
+            "icon": 5.43,
+            "meteo": 5.04,
+            "noaa": 7.31,
+            "sg": 5.04
+         },
+         "time": "2021-07-31T09:00:00+00:00",
+         "windDirection": {
+            "icon": 331.07,
+            "noaa": 30.37,
+            "sg": 331.07
+         },
+         "windSpeed": {
+            "icon": 5.51,
+            "noaa": 4.22,
+            "sg": 5.51
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 39.86,
+            "meteo": 169.83,
+            "noaa": 154.17,
+            "sg": 169.83
+         },
+         "swellHeight": {
+            "icon": 0.54,
+            "meteo": 0.59,
+            "noaa": 0.7,
+            "sg": 0.59
+         },
+         "swellPeriod": {
+            "icon": 5.38,
+            "meteo": 5.1,
+            "noaa": 7.36,
+            "sg": 5.1
+         },
+         "time": "2021-07-31T10:00:00+00:00",
+         "windDirection": {
+            "icon": 327.97,
+            "noaa": 26.92,
+            "sg": 327.97
+         },
+         "windSpeed": {
+            "icon": 4.97,
+            "noaa": 3.4,
+            "sg": 4.97
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 38.29,
+            "meteo": 169.68,
+            "noaa": 154.05,
+            "sg": 169.68
+         },
+         "swellHeight": {
+            "icon": 0.52,
+            "meteo": 0.59,
+            "noaa": 0.69,
+            "sg": 0.59
+         },
+         "swellPeriod": {
+            "icon": 5.33,
+            "meteo": 5.17,
+            "noaa": 7.42,
+            "sg": 5.17
+         },
+         "time": "2021-07-31T11:00:00+00:00",
+         "windDirection": {
+            "icon": 324.87,
+            "noaa": 23.46,
+            "sg": 324.87
+         },
+         "windSpeed": {
+            "icon": 4.42,
+            "noaa": 2.58,
+            "sg": 4.42
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 36.71,
+            "meteo": 169.53,
+            "noaa": 153.92,
+            "sg": 169.53
+         },
+         "swellHeight": {
+            "icon": 0.5,
+            "meteo": 0.59,
+            "noaa": 0.69,
+            "sg": 0.59
+         },
+         "swellPeriod": {
+            "icon": 5.28,
+            "meteo": 5.23,
+            "noaa": 7.47,
+            "sg": 5.23
+         },
+         "time": "2021-07-31T12:00:00+00:00",
+         "windDirection": {
+            "icon": 321.77,
+            "noaa": 20.01,
+            "sg": 321.77
+         },
+         "windSpeed": {
+            "icon": 3.88,
+            "noaa": 1.76,
+            "sg": 3.88
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 47.28,
+            "meteo": 168.31,
+            "noaa": 153.7,
+            "sg": 168.31
+         },
+         "swellHeight": {
+            "icon": 0.47,
+            "meteo": 0.61,
+            "noaa": 0.69,
+            "sg": 0.61
+         },
+         "swellPeriod": {
+            "icon": 5.45,
+            "meteo": 5.4,
+            "noaa": 7.54,
+            "sg": 5.4
+         },
+         "time": "2021-07-31T13:00:00+00:00",
+         "windDirection": {
+            "icon": 313.6,
+            "noaa": 67.97,
+            "sg": 313.6
+         },
+         "windSpeed": {
+            "icon": 3.72,
+            "noaa": 1.79,
+            "sg": 3.72
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 57.85,
+            "meteo": 167.09,
+            "noaa": 153.47,
+            "sg": 167.09
+         },
+         "swellHeight": {
+            "icon": 0.44,
+            "meteo": 0.62,
+            "noaa": 0.68,
+            "sg": 0.62
+         },
+         "swellPeriod": {
+            "icon": 5.61,
+            "meteo": 5.56,
+            "noaa": 7.61,
+            "sg": 5.56
+         },
+         "time": "2021-07-31T14:00:00+00:00",
+         "windDirection": {
+            "icon": 305.42,
+            "noaa": 115.94,
+            "sg": 305.42
+         },
+         "windSpeed": {
+            "icon": 3.56,
+            "noaa": 1.81,
+            "sg": 3.56
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 68.42,
+            "meteo": 165.87,
+            "noaa": 153.25,
+            "sg": 165.87
+         },
+         "swellHeight": {
+            "icon": 0.41,
+            "meteo": 0.64,
+            "noaa": 0.68,
+            "sg": 0.64
+         },
+         "swellPeriod": {
+            "icon": 5.78,
+            "meteo": 5.73,
+            "noaa": 7.68,
+            "sg": 5.73
+         },
+         "time": "2021-07-31T15:00:00+00:00",
+         "windDirection": {
+            "icon": 297.25,
+            "noaa": 163.9,
+            "sg": 297.25
+         },
+         "windSpeed": {
+            "icon": 3.4,
+            "noaa": 1.84,
+            "sg": 3.4
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 82.52,
+            "meteo": 166.15,
+            "noaa": 153.03,
+            "sg": 166.15
+         },
+         "swellHeight": {
+            "icon": 0.4,
+            "meteo": 0.65,
+            "noaa": 0.67,
+            "sg": 0.65
+         },
+         "swellPeriod": {
+            "icon": 5.98,
+            "meteo": 5.75,
+            "noaa": 7.69,
+            "sg": 5.75
+         },
+         "time": "2021-07-31T16:00:00+00:00",
+         "windDirection": {
+            "icon": 280.06,
+            "noaa": 164.03,
+            "sg": 280.06
+         },
+         "windSpeed": {
+            "icon": 3.36,
+            "noaa": 3.16,
+            "sg": 3.36
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 96.61,
+            "meteo": 166.42,
+            "noaa": 152.82,
+            "sg": 166.42
+         },
+         "swellHeight": {
+            "icon": 0.38,
+            "meteo": 0.66,
+            "noaa": 0.67,
+            "sg": 0.66
+         },
+         "swellPeriod": {
+            "icon": 6.17,
+            "meteo": 5.77,
+            "noaa": 7.69,
+            "sg": 5.77
+         },
+         "time": "2021-07-31T17:00:00+00:00",
+         "windDirection": {
+            "icon": 262.87,
+            "noaa": 164.16,
+            "sg": 262.87
+         },
+         "windSpeed": {
+            "icon": 3.33,
+            "noaa": 4.48,
+            "sg": 3.33
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 110.71,
+            "meteo": 166.7,
+            "noaa": 152.6,
+            "sg": 166.7
+         },
+         "swellHeight": {
+            "icon": 0.37,
+            "meteo": 0.67,
+            "noaa": 0.66,
+            "sg": 0.67
+         },
+         "swellPeriod": {
+            "icon": 6.37,
+            "meteo": 5.79,
+            "noaa": 7.7,
+            "sg": 5.79
+         },
+         "time": "2021-07-31T18:00:00+00:00",
+         "windDirection": {
+            "icon": 245.68,
+            "noaa": 164.29,
+            "sg": 245.68
+         },
+         "windSpeed": {
+            "icon": 3.29,
+            "noaa": 5.8,
+            "sg": 3.29
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 117.77,
+            "meteo": 167.34,
+            "noaa": 115.53,
+            "sg": 167.34
+         },
+         "swellHeight": {
+            "icon": 0.36,
+            "meteo": 0.67,
+            "noaa": 0.5,
+            "sg": 0.67
+         },
+         "swellPeriod": {
+            "icon": 6.56,
+            "meteo": 5.79,
+            "noaa": 6.5,
+            "sg": 5.79
+         },
+         "time": "2021-07-31T19:00:00+00:00",
+         "windDirection": {
+            "icon": 255.61,
+            "noaa": 167.49,
+            "sg": 255.61
+         },
+         "windSpeed": {
+            "icon": 3.69,
+            "noaa": 6.16,
+            "sg": 3.69
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 124.82,
+            "meteo": 167.99,
+            "noaa": 78.45,
+            "sg": 167.99
+         },
+         "swellHeight": {
+            "icon": 0.36,
+            "meteo": 0.67,
+            "noaa": 0.34,
+            "sg": 0.67
+         },
+         "swellPeriod": {
+            "icon": 6.75,
+            "meteo": 5.78,
+            "noaa": 5.29,
+            "sg": 5.78
+         },
+         "time": "2021-07-31T20:00:00+00:00",
+         "windDirection": {
+            "icon": 265.53,
+            "noaa": 170.68,
+            "sg": 265.53
+         },
+         "windSpeed": {
+            "icon": 4.09,
+            "noaa": 6.52,
+            "sg": 4.09
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 131.88,
+            "meteo": 168.63,
+            "noaa": 41.38,
+            "sg": 168.63
+         },
+         "swellHeight": {
+            "icon": 0.35,
+            "meteo": 0.67,
+            "noaa": 0.18,
+            "sg": 0.67
+         },
+         "swellPeriod": {
+            "icon": 6.94,
+            "meteo": 5.78,
+            "noaa": 4.09,
+            "sg": 5.78
+         },
+         "time": "2021-07-31T21:00:00+00:00",
+         "windDirection": {
+            "icon": 275.46,
+            "noaa": 173.88,
+            "sg": 275.46
+         },
+         "windSpeed": {
+            "icon": 4.49,
+            "noaa": 6.88,
+            "sg": 4.49
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 142.64,
+            "meteo": 168.48,
+            "noaa": 64.01,
+            "sg": 168.48
+         },
+         "swellHeight": {
+            "icon": 0.37,
+            "meteo": 0.67,
+            "noaa": 0.2,
+            "sg": 0.67
+         },
+         "swellPeriod": {
+            "icon": 6.58,
+            "meteo": 5.78,
+            "noaa": 5.76,
+            "sg": 5.78
+         },
+         "time": "2021-07-31T22:00:00+00:00",
+         "windDirection": {
+            "icon": 277.44,
+            "noaa": 182.22,
+            "sg": 277.44
+         },
+         "windSpeed": {
+            "icon": 3.93,
+            "noaa": 7.08,
+            "sg": 3.93
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 153.39,
+            "meteo": 168.33,
+            "noaa": 86.65,
+            "sg": 168.33
+         },
+         "swellHeight": {
+            "icon": 0.38,
+            "meteo": 0.68,
+            "noaa": 0.23,
+            "sg": 0.68
+         },
+         "swellPeriod": {
+            "icon": 6.21,
+            "meteo": 5.79,
+            "noaa": 7.42,
+            "sg": 5.79
+         },
+         "time": "2021-07-31T23:00:00+00:00",
+         "windDirection": {
+            "icon": 279.41,
+            "noaa": 190.57,
+            "sg": 279.41
+         },
+         "windSpeed": {
+            "icon": 3.37,
+            "noaa": 7.29,
+            "sg": 3.37
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 164.15,
+            "meteo": 168.18,
+            "noaa": 109.28,
+            "sg": 168.18
+         },
+         "swellHeight": {
+            "icon": 0.4,
+            "meteo": 0.68,
+            "noaa": 0.25,
+            "sg": 0.68
+         },
+         "swellPeriod": {
+            "icon": 5.85,
+            "meteo": 5.79,
+            "noaa": 9.09,
+            "sg": 5.79
+         },
+         "time": "2021-08-01T00:00:00+00:00",
+         "windDirection": {
+            "icon": 281.39,
+            "noaa": 198.91,
+            "sg": 281.39
+         },
+         "windSpeed": {
+            "icon": 2.81,
+            "noaa": 7.49,
+            "sg": 2.81
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 165.58,
+            "noaa": 109.08,
+            "sg": 165.58
+         },
+         "swellHeight": {
+            "icon": 0.41,
+            "noaa": 0.24,
+            "sg": 0.41
+         },
+         "swellPeriod": {
+            "icon": 5.78,
+            "noaa": 8.71,
+            "sg": 5.78
+         },
+         "time": "2021-08-01T01:00:00+00:00",
+         "windDirection": {
+            "icon": 267.64,
+            "noaa": 205.11,
+            "sg": 267.64
+         },
+         "windSpeed": {
+            "icon": 2.89,
+            "noaa": 6.85,
+            "sg": 2.89
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 167.02,
+            "noaa": 108.88,
+            "sg": 167.02
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.24,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.7,
+            "noaa": 8.34,
+            "sg": 5.7
+         },
+         "time": "2021-08-01T02:00:00+00:00",
+         "windDirection": {
+            "icon": 253.9,
+            "noaa": 211.32,
+            "sg": 253.9
+         },
+         "windSpeed": {
+            "icon": 2.97,
+            "noaa": 6.2,
+            "sg": 2.97
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 168.45,
+            "noaa": 108.68,
+            "sg": 168.45
+         },
+         "swellHeight": {
+            "icon": 0.43,
+            "noaa": 0.23,
+            "sg": 0.43
+         },
+         "swellPeriod": {
+            "icon": 5.63,
+            "noaa": 7.96,
+            "sg": 5.63
+         },
+         "time": "2021-08-01T03:00:00+00:00",
+         "windDirection": {
+            "icon": 240.15,
+            "noaa": 217.52,
+            "sg": 240.15
+         },
+         "windSpeed": {
+            "icon": 3.05,
+            "noaa": 5.56,
+            "sg": 3.05
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 167.05,
+            "noaa": 122.4,
+            "sg": 167.05
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.32,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.75,
+            "noaa": 7.61,
+            "sg": 5.75
+         },
+         "time": "2021-08-01T04:00:00+00:00",
+         "windDirection": {
+            "icon": 236.39,
+            "noaa": 218.02,
+            "sg": 236.39
+         },
+         "windSpeed": {
+            "icon": 3.52,
+            "noaa": 5.8,
+            "sg": 3.52
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 165.66,
+            "noaa": 136.12,
+            "sg": 165.66
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.42,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.86,
+            "noaa": 7.26,
+            "sg": 5.86
+         },
+         "time": "2021-08-01T05:00:00+00:00",
+         "windDirection": {
+            "icon": 232.64,
+            "noaa": 218.52,
+            "sg": 232.64
+         },
+         "windSpeed": {
+            "icon": 4.0,
+            "noaa": 6.05,
+            "sg": 4.0
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 164.26,
+            "noaa": 149.84,
+            "sg": 164.26
+         },
+         "swellHeight": {
+            "icon": 0.41,
+            "noaa": 0.51,
+            "sg": 0.41
+         },
+         "swellPeriod": {
+            "icon": 5.98,
+            "noaa": 6.91,
+            "sg": 5.98
+         },
+         "time": "2021-08-01T06:00:00+00:00",
+         "windDirection": {
+            "icon": 228.88,
+            "noaa": 219.02,
+            "sg": 228.88
+         },
+         "windSpeed": {
+            "icon": 4.47,
+            "noaa": 6.29,
+            "sg": 4.47
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 165.84,
+            "noaa": 149.46,
+            "sg": 165.84
+         },
+         "swellHeight": {
+            "icon": 0.41,
+            "noaa": 0.51,
+            "sg": 0.41
+         },
+         "swellPeriod": {
+            "icon": 5.94,
+            "noaa": 6.87,
+            "sg": 5.94
+         },
+         "time": "2021-08-01T07:00:00+00:00",
+         "windDirection": {
+            "icon": 232.35,
+            "noaa": 219.1,
+            "sg": 232.35
+         },
+         "windSpeed": {
+            "icon": 4.65,
+            "noaa": 6.21,
+            "sg": 4.65
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 167.43,
+            "noaa": 149.07,
+            "sg": 167.43
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.5,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.9,
+            "noaa": 6.83,
+            "sg": 5.9
+         },
+         "time": "2021-08-01T08:00:00+00:00",
+         "windDirection": {
+            "icon": 235.82,
+            "noaa": 219.17,
+            "sg": 235.82
+         },
+         "windSpeed": {
+            "icon": 4.82,
+            "noaa": 6.14,
+            "sg": 4.82
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 169.01,
+            "noaa": 148.69,
+            "sg": 169.01
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.5,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.86,
+            "noaa": 6.79,
+            "sg": 5.86
+         },
+         "time": "2021-08-01T09:00:00+00:00",
+         "windDirection": {
+            "icon": 239.29,
+            "noaa": 219.25,
+            "sg": 239.29
+         },
+         "windSpeed": {
+            "icon": 5.0,
+            "noaa": 6.06,
+            "sg": 5.0
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 169.42,
+            "noaa": 151.83,
+            "sg": 169.42
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.47,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.89,
+            "noaa": 6.71,
+            "sg": 5.89
+         },
+         "time": "2021-08-01T10:00:00+00:00",
+         "windDirection": {
+            "icon": 237.26,
+            "noaa": 222.45,
+            "sg": 237.26
+         },
+         "windSpeed": {
+            "icon": 5.14,
+            "noaa": 5.52,
+            "sg": 5.14
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 169.83,
+            "noaa": 154.97,
+            "sg": 169.83
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.45,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.92,
+            "noaa": 6.64,
+            "sg": 5.92
+         },
+         "time": "2021-08-01T11:00:00+00:00",
+         "windDirection": {
+            "icon": 235.22,
+            "noaa": 225.66,
+            "sg": 235.22
+         },
+         "windSpeed": {
+            "icon": 5.28,
+            "noaa": 4.99,
+            "sg": 5.28
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 170.24,
+            "noaa": 158.11,
+            "sg": 170.24
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.42,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.95,
+            "noaa": 6.56,
+            "sg": 5.95
+         },
+         "time": "2021-08-01T12:00:00+00:00",
+         "windDirection": {
+            "icon": 233.19,
+            "noaa": 228.86,
+            "sg": 233.19
+         },
+         "windSpeed": {
+            "icon": 5.42,
+            "noaa": 4.45,
+            "sg": 5.42
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 171.65,
+            "noaa": 145.59,
+            "sg": 171.65
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.34,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.96,
+            "noaa": 7.33,
+            "sg": 5.96
+         },
+         "time": "2021-08-01T13:00:00+00:00",
+         "windDirection": {
+            "icon": 225.96,
+            "noaa": 223.9,
+            "sg": 225.96
+         },
+         "windSpeed": {
+            "icon": 5.46,
+            "noaa": 3.89,
+            "sg": 5.46
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 173.07,
+            "noaa": 133.06,
+            "sg": 173.07
+         },
+         "swellHeight": {
+            "icon": 0.41,
+            "noaa": 0.27,
+            "sg": 0.41
+         },
+         "swellPeriod": {
+            "icon": 5.96,
+            "noaa": 8.09,
+            "sg": 5.96
+         },
+         "time": "2021-08-01T14:00:00+00:00",
+         "windDirection": {
+            "icon": 218.73,
+            "noaa": 218.94,
+            "sg": 218.73
+         },
+         "windSpeed": {
+            "icon": 5.5,
+            "noaa": 3.33,
+            "sg": 5.5
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 174.48,
+            "noaa": 120.54,
+            "sg": 174.48
+         },
+         "swellHeight": {
+            "icon": 0.41,
+            "noaa": 0.19,
+            "sg": 0.41
+         },
+         "swellPeriod": {
+            "icon": 5.97,
+            "noaa": 8.86,
+            "sg": 5.97
+         },
+         "time": "2021-08-01T15:00:00+00:00",
+         "windDirection": {
+            "icon": 211.5,
+            "noaa": 213.98,
+            "sg": 211.5
+         },
+         "windSpeed": {
+            "icon": 5.54,
+            "noaa": 2.77,
+            "sg": 5.54
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 163.45,
+            "noaa": 117.38,
+            "sg": 163.45
+         },
+         "swellHeight": {
+            "icon": 0.36,
+            "noaa": 0.22,
+            "sg": 0.36
+         },
+         "swellPeriod": {
+            "icon": 6.72,
+            "noaa": 8.86,
+            "sg": 6.72
+         },
+         "time": "2021-08-01T16:00:00+00:00",
+         "windDirection": {
+            "icon": 202.07,
+            "noaa": 201.42,
+            "sg": 202.07
+         },
+         "windSpeed": {
+            "icon": 6.68,
+            "noaa": 4.13,
+            "sg": 6.68
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.41,
+            "noaa": 114.22,
+            "sg": 152.41
+         },
+         "swellHeight": {
+            "icon": 0.31,
+            "noaa": 0.26,
+            "sg": 0.31
+         },
+         "swellPeriod": {
+            "icon": 7.46,
+            "noaa": 8.87,
+            "sg": 7.46
+         },
+         "time": "2021-08-01T17:00:00+00:00",
+         "windDirection": {
+            "icon": 192.63,
+            "noaa": 188.87,
+            "sg": 192.63
+         },
+         "windSpeed": {
+            "icon": 7.81,
+            "noaa": 5.49,
+            "sg": 7.81
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 141.38,
+            "noaa": 111.06,
+            "sg": 141.38
+         },
+         "swellHeight": {
+            "icon": 0.26,
+            "noaa": 0.29,
+            "sg": 0.26
+         },
+         "swellPeriod": {
+            "icon": 8.21,
+            "noaa": 8.87,
+            "sg": 8.21
+         },
+         "time": "2021-08-01T18:00:00+00:00",
+         "windDirection": {
+            "icon": 183.2,
+            "noaa": 176.31,
+            "sg": 183.2
+         },
+         "windSpeed": {
+            "icon": 8.95,
+            "noaa": 6.85,
+            "sg": 8.95
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 136.03,
+            "noaa": 113.43,
+            "sg": 136.03
+         },
+         "swellHeight": {
+            "icon": 0.25,
+            "noaa": 0.25,
+            "sg": 0.25
+         },
+         "swellPeriod": {
+            "icon": 8.32,
+            "noaa": 8.9,
+            "sg": 8.32
+         },
+         "time": "2021-08-01T19:00:00+00:00",
+         "windDirection": {
+            "icon": 184.58,
+            "noaa": 180.72,
+            "sg": 184.58
+         },
+         "windSpeed": {
+            "icon": 9.26,
+            "noaa": 7.61,
+            "sg": 9.26
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 130.68,
+            "noaa": 115.79,
+            "sg": 130.68
+         },
+         "swellHeight": {
+            "icon": 0.25,
+            "noaa": 0.21,
+            "sg": 0.25
+         },
+         "swellPeriod": {
+            "icon": 8.42,
+            "noaa": 8.93,
+            "sg": 8.42
+         },
+         "time": "2021-08-01T20:00:00+00:00",
+         "windDirection": {
+            "icon": 185.97,
+            "noaa": 185.14,
+            "sg": 185.97
+         },
+         "windSpeed": {
+            "icon": 9.58,
+            "noaa": 8.38,
+            "sg": 9.58
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 125.33,
+            "noaa": 118.16,
+            "sg": 125.33
+         },
+         "swellHeight": {
+            "icon": 0.24,
+            "noaa": 0.17,
+            "sg": 0.24
+         },
+         "swellPeriod": {
+            "icon": 8.53,
+            "noaa": 8.96,
+            "sg": 8.53
+         },
+         "time": "2021-08-01T21:00:00+00:00",
+         "windDirection": {
+            "icon": 187.35,
+            "noaa": 189.55,
+            "sg": 187.35
+         },
+         "windSpeed": {
+            "icon": 9.89,
+            "noaa": 9.14,
+            "sg": 9.89
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 129.68,
+            "noaa": 116.07,
+            "sg": 129.68
+         },
+         "swellHeight": {
+            "icon": 0.29,
+            "noaa": 0.2,
+            "sg": 0.29
+         },
+         "swellPeriod": {
+            "icon": 7.9,
+            "noaa": 8.89,
+            "sg": 7.9
+         },
+         "time": "2021-08-01T22:00:00+00:00",
+         "windDirection": {
+            "icon": 190.0,
+            "noaa": 196.37,
+            "sg": 190.0
+         },
+         "windSpeed": {
+            "icon": 9.59,
+            "noaa": 8.21,
+            "sg": 9.59
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 134.04,
+            "noaa": 113.99,
+            "sg": 134.04
+         },
+         "swellHeight": {
+            "icon": 0.35,
+            "noaa": 0.24,
+            "sg": 0.35
+         },
+         "swellPeriod": {
+            "icon": 7.27,
+            "noaa": 8.81,
+            "sg": 7.27
+         },
+         "time": "2021-08-01T23:00:00+00:00",
+         "windDirection": {
+            "icon": 192.66,
+            "noaa": 203.19,
+            "sg": 192.66
+         },
+         "windSpeed": {
+            "icon": 9.3,
+            "noaa": 7.27,
+            "sg": 9.3
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 138.39,
+            "noaa": 111.9,
+            "sg": 138.39
+         },
+         "swellHeight": {
+            "icon": 0.4,
+            "noaa": 0.27,
+            "sg": 0.4
+         },
+         "swellPeriod": {
+            "icon": 6.64,
+            "noaa": 8.74,
+            "sg": 6.64
+         },
+         "time": "2021-08-02T00:00:00+00:00",
+         "windDirection": {
+            "icon": 195.31,
+            "noaa": 210.01,
+            "sg": 195.31
+         },
+         "windSpeed": {
+            "icon": 9.0,
+            "noaa": 6.34,
+            "sg": 9.0
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 142.37,
+            "noaa": 123.77,
+            "sg": 142.37
+         },
+         "swellHeight": {
+            "icon": 0.44,
+            "noaa": 0.23,
+            "sg": 0.44
+         },
+         "swellPeriod": {
+            "icon": 6.45,
+            "noaa": 8.16,
+            "sg": 6.45
+         },
+         "time": "2021-08-02T01:00:00+00:00",
+         "windDirection": {
+            "icon": 197.61,
+            "noaa": 217.76,
+            "sg": 197.61
+         },
+         "windSpeed": {
+            "icon": 8.61,
+            "noaa": 5.7,
+            "sg": 8.61
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 146.36,
+            "noaa": 135.65,
+            "sg": 146.36
+         },
+         "swellHeight": {
+            "icon": 0.48,
+            "noaa": 0.2,
+            "sg": 0.48
+         },
+         "swellPeriod": {
+            "icon": 6.25,
+            "noaa": 7.59,
+            "sg": 6.25
+         },
+         "time": "2021-08-02T02:00:00+00:00",
+         "windDirection": {
+            "icon": 199.91,
+            "noaa": 225.51,
+            "sg": 199.91
+         },
+         "windSpeed": {
+            "icon": 8.21,
+            "noaa": 5.05,
+            "sg": 8.21
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 150.34,
+            "noaa": 147.52,
+            "sg": 150.34
+         },
+         "swellHeight": {
+            "icon": 0.52,
+            "noaa": 0.16,
+            "sg": 0.52
+         },
+         "swellPeriod": {
+            "icon": 6.06,
+            "noaa": 7.01,
+            "sg": 6.06
+         },
+         "time": "2021-08-02T03:00:00+00:00",
+         "windDirection": {
+            "icon": 202.21,
+            "noaa": 233.26,
+            "sg": 202.21
+         },
+         "windSpeed": {
+            "icon": 7.82,
+            "noaa": 4.41,
+            "sg": 7.82
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 156.87,
+            "noaa": 136.52,
+            "sg": 156.87
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "noaa": 0.2,
+            "sg": 0.58
+         },
+         "swellPeriod": {
+            "icon": 5.79,
+            "noaa": 7.52,
+            "sg": 5.79
+         },
+         "time": "2021-08-02T04:00:00+00:00",
+         "windDirection": {
+            "icon": 207.03,
+            "noaa": 236.88,
+            "sg": 207.03
+         },
+         "windSpeed": {
+            "icon": 7.24,
+            "noaa": 3.85,
+            "sg": 7.24
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 163.4,
+            "noaa": 125.51,
+            "sg": 163.4
+         },
+         "swellHeight": {
+            "icon": 0.65,
+            "noaa": 0.23,
+            "sg": 0.65
+         },
+         "swellPeriod": {
+            "icon": 5.52,
+            "noaa": 8.03,
+            "sg": 5.52
+         },
+         "time": "2021-08-02T05:00:00+00:00",
+         "windDirection": {
+            "icon": 211.86,
+            "noaa": 240.49,
+            "sg": 211.86
+         },
+         "windSpeed": {
+            "icon": 6.67,
+            "noaa": 3.28,
+            "sg": 6.67
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 169.93,
+            "noaa": 114.51,
+            "sg": 169.93
+         },
+         "swellHeight": {
+            "icon": 0.71,
+            "noaa": 0.27,
+            "sg": 0.71
+         },
+         "swellPeriod": {
+            "icon": 5.25,
+            "noaa": 8.54,
+            "sg": 5.25
+         },
+         "time": "2021-08-02T06:00:00+00:00",
+         "windDirection": {
+            "icon": 216.68,
+            "noaa": 244.11,
+            "sg": 216.68
+         },
+         "windSpeed": {
+            "icon": 6.09,
+            "noaa": 2.72,
+            "sg": 6.09
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 170.96,
+            "noaa": 130.79,
+            "sg": 170.96
+         },
+         "swellHeight": {
+            "icon": 0.69,
+            "noaa": 0.33,
+            "sg": 0.69
+         },
+         "swellPeriod": {
+            "icon": 5.18,
+            "noaa": 7.57,
+            "sg": 5.18
+         },
+         "time": "2021-08-02T07:00:00+00:00",
+         "windDirection": {
+            "icon": 219.1,
+            "noaa": 256.61,
+            "sg": 219.1
+         },
+         "windSpeed": {
+            "icon": 5.45,
+            "noaa": 2.54,
+            "sg": 5.45
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 172.0,
+            "noaa": 147.07,
+            "sg": 172.0
+         },
+         "swellHeight": {
+            "icon": 0.66,
+            "noaa": 0.39,
+            "sg": 0.66
+         },
+         "swellPeriod": {
+            "icon": 5.12,
+            "noaa": 6.59,
+            "sg": 5.12
+         },
+         "time": "2021-08-02T08:00:00+00:00",
+         "windDirection": {
+            "icon": 221.52,
+            "noaa": 269.1,
+            "sg": 221.52
+         },
+         "windSpeed": {
+            "icon": 4.82,
+            "noaa": 2.37,
+            "sg": 4.82
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 173.03,
+            "noaa": 163.35,
+            "sg": 173.03
+         },
+         "swellHeight": {
+            "icon": 0.64,
+            "noaa": 0.45,
+            "sg": 0.64
+         },
+         "swellPeriod": {
+            "icon": 5.05,
+            "noaa": 5.62,
+            "sg": 5.05
+         },
+         "time": "2021-08-02T09:00:00+00:00",
+         "windDirection": {
+            "icon": 223.94,
+            "noaa": 281.6,
+            "sg": 223.94
+         },
+         "windSpeed": {
+            "icon": 4.18,
+            "noaa": 2.19,
+            "sg": 4.18
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 172.07,
+            "noaa": 163.73,
+            "sg": 172.07
+         },
+         "swellHeight": {
+            "icon": 0.61,
+            "noaa": 0.44,
+            "sg": 0.61
+         },
+         "swellPeriod": {
+            "icon": 5.06,
+            "noaa": 5.59,
+            "sg": 5.06
+         },
+         "time": "2021-08-02T10:00:00+00:00",
+         "windDirection": {
+            "icon": 243.45,
+            "noaa": 308.85,
+            "sg": 243.45
+         },
+         "windSpeed": {
+            "icon": 3.67,
+            "noaa": 2.33,
+            "sg": 3.67
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 171.12,
+            "noaa": 164.12,
+            "sg": 171.12
+         },
+         "swellHeight": {
+            "icon": 0.58,
+            "noaa": 0.43,
+            "sg": 0.58
+         },
+         "swellPeriod": {
+            "icon": 5.08,
+            "noaa": 5.57,
+            "sg": 5.08
+         },
+         "time": "2021-08-02T11:00:00+00:00",
+         "windDirection": {
+            "icon": 262.96,
+            "noaa": 336.09,
+            "sg": 262.96
+         },
+         "windSpeed": {
+            "icon": 3.16,
+            "noaa": 2.47,
+            "sg": 3.16
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 170.16,
+            "noaa": 164.5,
+            "sg": 170.16
+         },
+         "swellHeight": {
+            "icon": 0.55,
+            "noaa": 0.42,
+            "sg": 0.55
+         },
+         "swellPeriod": {
+            "icon": 5.09,
+            "noaa": 5.54,
+            "sg": 5.09
+         },
+         "time": "2021-08-02T12:00:00+00:00",
+         "windDirection": {
+            "icon": 282.47,
+            "noaa": 3.34,
+            "sg": 282.47
+         },
+         "windSpeed": {
+            "icon": 2.65,
+            "noaa": 2.61,
+            "sg": 2.65
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 168.12,
+            "noaa": 164.65,
+            "sg": 168.12
+         },
+         "swellHeight": {
+            "icon": 0.52,
+            "noaa": 0.42,
+            "sg": 0.52
+         },
+         "swellPeriod": {
+            "icon": 5.19,
+            "noaa": 5.49,
+            "sg": 5.19
+         },
+         "time": "2021-08-02T13:00:00+00:00",
+         "windDirection": {
+            "icon": 302.48,
+            "noaa": 20.45,
+            "sg": 302.48
+         },
+         "windSpeed": {
+            "icon": 2.49,
+            "noaa": 3.65,
+            "sg": 2.49
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 166.09,
+            "noaa": 164.8,
+            "sg": 166.09
+         },
+         "swellHeight": {
+            "icon": 0.5,
+            "noaa": 0.41,
+            "sg": 0.5
+         },
+         "swellPeriod": {
+            "icon": 5.3,
+            "noaa": 5.45,
+            "sg": 5.3
+         },
+         "time": "2021-08-02T14:00:00+00:00",
+         "windDirection": {
+            "icon": 322.48,
+            "noaa": 37.56,
+            "sg": 322.48
+         },
+         "windSpeed": {
+            "icon": 2.33,
+            "noaa": 4.68,
+            "sg": 2.33
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 164.05,
+            "noaa": 164.95,
+            "sg": 164.05
+         },
+         "swellHeight": {
+            "icon": 0.47,
+            "noaa": 0.41,
+            "sg": 0.47
+         },
+         "swellPeriod": {
+            "icon": 5.4,
+            "noaa": 5.4,
+            "sg": 5.4
+         },
+         "time": "2021-08-02T15:00:00+00:00",
+         "windDirection": {
+            "icon": 342.49,
+            "noaa": 54.67,
+            "sg": 342.49
+         },
+         "windSpeed": {
+            "icon": 2.17,
+            "noaa": 5.72,
+            "sg": 2.17
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 162.22,
+            "noaa": 164.59,
+            "sg": 162.22
+         },
+         "swellHeight": {
+            "icon": 0.46,
+            "noaa": 0.4,
+            "sg": 0.46
+         },
+         "swellPeriod": {
+            "icon": 5.51,
+            "noaa": 5.36,
+            "sg": 5.51
+         },
+         "time": "2021-08-02T16:00:00+00:00",
+         "windDirection": {
+            "icon": 349.99,
+            "noaa": 60.57,
+            "sg": 349.99
+         },
+         "windSpeed": {
+            "icon": 1.87,
+            "noaa": 5.21,
+            "sg": 1.87
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 160.38,
+            "noaa": 164.22,
+            "sg": 160.38
+         },
+         "swellHeight": {
+            "icon": 0.44,
+            "noaa": 0.4,
+            "sg": 0.44
+         },
+         "swellPeriod": {
+            "icon": 5.61,
+            "noaa": 5.33,
+            "sg": 5.61
+         },
+         "time": "2021-08-02T17:00:00+00:00",
+         "windDirection": {
+            "icon": 357.5,
+            "noaa": 66.47,
+            "sg": 357.5
+         },
+         "windSpeed": {
+            "icon": 1.58,
+            "noaa": 4.71,
+            "sg": 1.58
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 158.55,
+            "noaa": 163.86,
+            "sg": 158.55
+         },
+         "swellHeight": {
+            "icon": 0.43,
+            "noaa": 0.39,
+            "sg": 0.43
+         },
+         "swellPeriod": {
+            "icon": 5.72,
+            "noaa": 5.29,
+            "sg": 5.72
+         },
+         "time": "2021-08-02T18:00:00+00:00",
+         "windDirection": {
+            "icon": 5.0,
+            "noaa": 72.37,
+            "sg": 5.0
+         },
+         "windSpeed": {
+            "icon": 1.28,
+            "noaa": 4.2,
+            "sg": 1.28
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 156.95,
+            "noaa": 146.55,
+            "sg": 156.95
+         },
+         "swellHeight": {
+            "icon": 0.42,
+            "noaa": 0.28,
+            "sg": 0.42
+         },
+         "swellPeriod": {
+            "icon": 5.78,
+            "noaa": 7.88,
+            "sg": 5.78
+         },
+         "time": "2021-08-02T19:00:00+00:00",
+         "windDirection": {
+            "icon": 328.34,
+            "noaa": 78.89,
+            "sg": 328.34
+         },
+         "windSpeed": {
+            "icon": 1.35,
+            "noaa": 3.91,
+            "sg": 1.35
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 155.34,
+            "noaa": 129.25,
+            "sg": 155.34
+         },
+         "swellHeight": {
+            "icon": 0.41,
+            "noaa": 0.16,
+            "sg": 0.41
+         },
+         "swellPeriod": {
+            "icon": 5.85,
+            "noaa": 10.46,
+            "sg": 5.85
+         },
+         "time": "2021-08-02T20:00:00+00:00",
+         "windDirection": {
+            "icon": 291.68,
+            "noaa": 85.42,
+            "sg": 291.68
+         },
+         "windSpeed": {
+            "icon": 1.42,
+            "noaa": 3.63,
+            "sg": 1.42
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 153.74,
+            "noaa": 111.94,
+            "sg": 153.74
+         },
+         "swellHeight": {
+            "icon": 0.4,
+            "noaa": 0.05,
+            "sg": 0.4
+         },
+         "swellPeriod": {
+            "icon": 5.91,
+            "noaa": 13.05,
+            "sg": 5.91
+         },
+         "time": "2021-08-02T21:00:00+00:00",
+         "windDirection": {
+            "icon": 255.02,
+            "noaa": 91.94,
+            "sg": 255.02
+         },
+         "windSpeed": {
+            "icon": 1.48,
+            "noaa": 3.34,
+            "sg": 1.48
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 152.51,
+            "noaa": 112.18,
+            "sg": 152.51
+         },
+         "swellHeight": {
+            "icon": 0.4,
+            "noaa": 0.05,
+            "sg": 0.4
+         },
+         "swellPeriod": {
+            "icon": 5.87,
+            "noaa": 13.0,
+            "sg": 5.87
+         },
+         "time": "2021-08-02T22:00:00+00:00",
+         "windDirection": {
+            "icon": 279.95,
+            "noaa": 99.25,
+            "sg": 279.95
+         },
+         "windSpeed": {
+            "icon": 2.08,
+            "noaa": 3.33,
+            "sg": 2.08
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 151.28,
+            "noaa": 112.43,
+            "sg": 151.28
+         },
+         "swellHeight": {
+            "icon": 0.4,
+            "noaa": 0.06,
+            "sg": 0.4
+         },
+         "swellPeriod": {
+            "icon": 5.82,
+            "noaa": 12.94,
+            "sg": 5.82
+         },
+         "time": "2021-08-02T23:00:00+00:00",
+         "windDirection": {
+            "icon": 304.87,
+            "noaa": 106.57,
+            "sg": 304.87
+         },
+         "windSpeed": {
+            "icon": 2.67,
+            "noaa": 3.31,
+            "sg": 2.67
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 150.05,
+            "noaa": 112.67,
+            "sg": 150.05
+         },
+         "swellHeight": {
+            "icon": 0.4,
+            "noaa": 0.06,
+            "sg": 0.4
+         },
+         "swellPeriod": {
+            "icon": 5.78,
+            "noaa": 12.89,
+            "sg": 5.78
+         },
+         "time": "2021-08-03T00:00:00+00:00",
+         "windDirection": {
+            "icon": 329.8,
+            "noaa": 113.88,
+            "sg": 329.8
+         },
+         "windSpeed": {
+            "icon": 3.27,
+            "noaa": 3.3,
+            "sg": 3.27
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 149.37,
+            "noaa": 112.55,
+            "sg": 149.37
+         },
+         "swellHeight": {
+            "icon": 0.39,
+            "noaa": 0.06,
+            "sg": 0.39
+         },
+         "swellPeriod": {
+            "icon": 6.08,
+            "noaa": 12.86,
+            "sg": 6.08
+         },
+         "time": "2021-08-03T01:00:00+00:00",
+         "windDirection": {
+            "icon": 340.8,
+            "noaa": 138.27,
+            "sg": 340.8
+         },
+         "windSpeed": {
+            "icon": 4.53,
+            "noaa": 3.28,
+            "sg": 4.53
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 148.7,
+            "noaa": 112.44,
+            "sg": 148.7
+         },
+         "swellHeight": {
+            "icon": 0.37,
+            "noaa": 0.06,
+            "sg": 0.37
+         },
+         "swellPeriod": {
+            "icon": 6.37,
+            "noaa": 12.84,
+            "sg": 6.37
+         },
+         "time": "2021-08-03T02:00:00+00:00",
+         "windDirection": {
+            "icon": 351.81,
+            "noaa": 162.65,
+            "sg": 351.81
+         },
+         "windSpeed": {
+            "icon": 5.8,
+            "noaa": 3.25,
+            "sg": 5.8
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 148.02,
+            "noaa": 112.32,
+            "sg": 148.02
+         },
+         "swellHeight": {
+            "icon": 0.36,
+            "noaa": 0.06,
+            "sg": 0.36
+         },
+         "swellPeriod": {
+            "icon": 6.67,
+            "noaa": 12.81,
+            "sg": 6.67
+         },
+         "time": "2021-08-03T03:00:00+00:00",
+         "windDirection": {
+            "icon": 2.81,
+            "noaa": 187.04,
+            "sg": 2.81
+         },
+         "windSpeed": {
+            "icon": 7.06,
+            "noaa": 3.23,
+            "sg": 7.06
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 123.55,
+            "noaa": 112.59,
+            "sg": 123.55
+         },
+         "swellHeight": {
+            "icon": 0.4,
+            "noaa": 0.06,
+            "sg": 0.4
+         },
+         "swellPeriod": {
+            "icon": 6.31,
+            "noaa": 12.78,
+            "sg": 6.31
+         },
+         "time": "2021-08-03T04:00:00+00:00",
+         "windDirection": {
+            "icon": 7.26,
+            "noaa": 196.96,
+            "sg": 7.26
+         },
+         "windSpeed": {
+            "icon": 6.55,
+            "noaa": 3.29,
+            "sg": 6.55
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 99.07,
+            "noaa": 112.87,
+            "sg": 99.07
+         },
+         "swellHeight": {
+            "icon": 0.43,
+            "noaa": 0.06,
+            "sg": 0.43
+         },
+         "swellPeriod": {
+            "icon": 5.96,
+            "noaa": 12.74,
+            "sg": 5.96
+         },
+         "time": "2021-08-03T05:00:00+00:00",
+         "windDirection": {
+            "icon": 11.72,
+            "noaa": 206.87,
+            "sg": 11.72
+         },
+         "windSpeed": {
+            "icon": 6.03,
+            "noaa": 3.35,
+            "sg": 6.03
+         }
+      },
+      {
+         "swellDirection": {
+            "icon": 74.6,
+            "noaa": 113.14,
+            "sg": 74.6
+         },
+         "swellHeight": {
+            "icon": 0.47,
+            "noaa": 0.06,
+            "sg": 0.47
+         },
+         "swellPeriod": {
+            "icon": 5.6,
+            "noaa": 12.71,
+            "sg": 5.6
+         },
+         "time": "2021-08-03T06:00:00+00:00",
+         "windDirection": {
+            "icon": 16.17,
+            "noaa": 216.79,
+            "sg": 16.17
+         },
+         "windSpeed": {
+            "icon": 5.52,
+            "noaa": 3.41,
+            "sg": 5.52
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.24,
+            "sg": 113.24
+         },
+         "swellHeight": {
+            "noaa": 0.06,
+            "sg": 0.06
+         },
+         "swellPeriod": {
+            "noaa": 12.7,
+            "sg": 12.7
+         },
+         "time": "2021-08-03T07:00:00+00:00",
+         "windDirection": {
+            "noaa": 240.16,
+            "sg": 240.16
+         },
+         "windSpeed": {
+            "noaa": 2.95,
+            "sg": 2.95
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.35,
+            "sg": 113.35
+         },
+         "swellHeight": {
+            "noaa": 0.07,
+            "sg": 0.07
+         },
+         "swellPeriod": {
+            "noaa": 12.68,
+            "sg": 12.68
+         },
+         "time": "2021-08-03T08:00:00+00:00",
+         "windDirection": {
+            "noaa": 263.53,
+            "sg": 263.53
+         },
+         "windSpeed": {
+            "noaa": 2.48,
+            "sg": 2.48
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.45,
+            "sg": 113.45
+         },
+         "swellHeight": {
+            "noaa": 0.07,
+            "sg": 0.07
+         },
+         "swellPeriod": {
+            "noaa": 12.67,
+            "sg": 12.67
+         },
+         "time": "2021-08-03T09:00:00+00:00",
+         "windDirection": {
+            "noaa": 286.9,
+            "sg": 286.9
+         },
+         "windSpeed": {
+            "noaa": 2.02,
+            "sg": 2.02
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 96.24,
+            "sg": 96.24
+         },
+         "swellHeight": {
+            "noaa": 0.09,
+            "sg": 0.09
+         },
+         "swellPeriod": {
+            "noaa": 9.55,
+            "sg": 9.55
+         },
+         "time": "2021-08-03T10:00:00+00:00",
+         "windDirection": {
+            "noaa": 275.45,
+            "sg": 275.45
+         },
+         "windSpeed": {
+            "noaa": 1.58,
+            "sg": 1.58
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 79.02,
+            "sg": 79.02
+         },
+         "swellHeight": {
+            "noaa": 0.1,
+            "sg": 0.1
+         },
+         "swellPeriod": {
+            "noaa": 6.44,
+            "sg": 6.44
+         },
+         "time": "2021-08-03T11:00:00+00:00",
+         "windDirection": {
+            "noaa": 263.99,
+            "sg": 263.99
+         },
+         "windSpeed": {
+            "noaa": 1.14,
+            "sg": 1.14
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 61.81,
+            "sg": 61.81
+         },
+         "swellHeight": {
+            "noaa": 0.12,
+            "sg": 0.12
+         },
+         "swellPeriod": {
+            "noaa": 3.32,
+            "sg": 3.32
+         },
+         "time": "2021-08-03T12:00:00+00:00",
+         "windDirection": {
+            "noaa": 252.54,
+            "sg": 252.54
+         },
+         "windSpeed": {
+            "noaa": 0.7,
+            "sg": 0.7
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 61.64,
+            "sg": 61.64
+         },
+         "swellHeight": {
+            "noaa": 0.11,
+            "sg": 0.11
+         },
+         "swellPeriod": {
+            "noaa": 3.29,
+            "sg": 3.29
+         },
+         "time": "2021-08-03T13:00:00+00:00",
+         "windDirection": {
+            "noaa": 225.31,
+            "sg": 225.31
+         },
+         "windSpeed": {
+            "noaa": 1.54,
+            "sg": 1.54
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 61.47,
+            "sg": 61.47
+         },
+         "swellHeight": {
+            "noaa": 0.1,
+            "sg": 0.1
+         },
+         "swellPeriod": {
+            "noaa": 3.27,
+            "sg": 3.27
+         },
+         "time": "2021-08-03T14:00:00+00:00",
+         "windDirection": {
+            "noaa": 198.09,
+            "sg": 198.09
+         },
+         "windSpeed": {
+            "noaa": 2.38,
+            "sg": 2.38
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 61.3,
+            "sg": 61.3
+         },
+         "swellHeight": {
+            "noaa": 0.09,
+            "sg": 0.09
+         },
+         "swellPeriod": {
+            "noaa": 3.24,
+            "sg": 3.24
+         },
+         "time": "2021-08-03T15:00:00+00:00",
+         "windDirection": {
+            "noaa": 170.86,
+            "sg": 170.86
+         },
+         "windSpeed": {
+            "noaa": 3.22,
+            "sg": 3.22
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 60.87,
+            "sg": 60.87
+         },
+         "swellHeight": {
+            "noaa": 0.08,
+            "sg": 0.08
+         },
+         "swellPeriod": {
+            "noaa": 3.2,
+            "sg": 3.2
+         },
+         "time": "2021-08-03T16:00:00+00:00",
+         "windDirection": {
+            "noaa": 170.19,
+            "sg": 170.19
+         },
+         "windSpeed": {
+            "noaa": 4.25,
+            "sg": 4.25
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 60.45,
+            "sg": 60.45
+         },
+         "swellHeight": {
+            "noaa": 0.07,
+            "sg": 0.07
+         },
+         "swellPeriod": {
+            "noaa": 3.16,
+            "sg": 3.16
+         },
+         "time": "2021-08-03T17:00:00+00:00",
+         "windDirection": {
+            "noaa": 169.51,
+            "sg": 169.51
+         },
+         "windSpeed": {
+            "noaa": 5.28,
+            "sg": 5.28
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 60.02,
+            "sg": 60.02
+         },
+         "swellHeight": {
+            "noaa": 0.06,
+            "sg": 0.06
+         },
+         "swellPeriod": {
+            "noaa": 3.12,
+            "sg": 3.12
+         },
+         "time": "2021-08-03T18:00:00+00:00",
+         "windDirection": {
+            "noaa": 168.84,
+            "sg": 168.84
+         },
+         "windSpeed": {
+            "noaa": 6.31,
+            "sg": 6.31
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 78.92,
+            "sg": 78.92
+         },
+         "swellHeight": {
+            "noaa": 0.12,
+            "sg": 0.12
+         },
+         "swellPeriod": {
+            "noaa": 4.62,
+            "sg": 4.62
+         },
+         "time": "2021-08-03T19:00:00+00:00",
+         "windDirection": {
+            "noaa": 171.29,
+            "sg": 171.29
+         },
+         "windSpeed": {
+            "noaa": 6.7,
+            "sg": 6.7
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 97.81,
+            "sg": 97.81
+         },
+         "swellHeight": {
+            "noaa": 0.19,
+            "sg": 0.19
+         },
+         "swellPeriod": {
+            "noaa": 6.13,
+            "sg": 6.13
+         },
+         "time": "2021-08-03T20:00:00+00:00",
+         "windDirection": {
+            "noaa": 173.73,
+            "sg": 173.73
+         },
+         "windSpeed": {
+            "noaa": 7.08,
+            "sg": 7.08
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 116.71,
+            "sg": 116.71
+         },
+         "swellHeight": {
+            "noaa": 0.25,
+            "sg": 0.25
+         },
+         "swellPeriod": {
+            "noaa": 7.63,
+            "sg": 7.63
+         },
+         "time": "2021-08-03T21:00:00+00:00",
+         "windDirection": {
+            "noaa": 176.18,
+            "sg": 176.18
+         },
+         "windSpeed": {
+            "noaa": 7.47,
+            "sg": 7.47
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.79,
+            "sg": 115.79
+         },
+         "swellHeight": {
+            "noaa": 0.19,
+            "sg": 0.19
+         },
+         "swellPeriod": {
+            "noaa": 9.08,
+            "sg": 9.08
+         },
+         "time": "2021-08-03T22:00:00+00:00",
+         "windDirection": {
+            "noaa": 179.68,
+            "sg": 179.68
+         },
+         "windSpeed": {
+            "noaa": 7.15,
+            "sg": 7.15
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 114.86,
+            "sg": 114.86
+         },
+         "swellHeight": {
+            "noaa": 0.14,
+            "sg": 0.14
+         },
+         "swellPeriod": {
+            "noaa": 10.54,
+            "sg": 10.54
+         },
+         "time": "2021-08-03T23:00:00+00:00",
+         "windDirection": {
+            "noaa": 183.18,
+            "sg": 183.18
+         },
+         "windSpeed": {
+            "noaa": 6.83,
+            "sg": 6.83
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.94,
+            "sg": 113.94
+         },
+         "swellHeight": {
+            "noaa": 0.08,
+            "sg": 0.08
+         },
+         "swellPeriod": {
+            "noaa": 11.99,
+            "sg": 11.99
+         },
+         "time": "2021-08-04T00:00:00+00:00",
+         "windDirection": {
+            "noaa": 186.68,
+            "sg": 186.68
+         },
+         "windSpeed": {
+            "noaa": 6.51,
+            "sg": 6.51
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 110.73,
+            "sg": 110.73
+         },
+         "swellHeight": {
+            "noaa": 0.09,
+            "sg": 0.09
+         },
+         "swellPeriod": {
+            "noaa": 11.0,
+            "sg": 11.0
+         },
+         "time": "2021-08-04T01:00:00+00:00",
+         "windDirection": {
+            "noaa": 189.16,
+            "sg": 189.16
+         },
+         "windSpeed": {
+            "noaa": 6.46,
+            "sg": 6.46
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 107.53,
+            "sg": 107.53
+         },
+         "swellHeight": {
+            "noaa": 0.1,
+            "sg": 0.1
+         },
+         "swellPeriod": {
+            "noaa": 10.02,
+            "sg": 10.02
+         },
+         "time": "2021-08-04T02:00:00+00:00",
+         "windDirection": {
+            "noaa": 191.63,
+            "sg": 191.63
+         },
+         "windSpeed": {
+            "noaa": 6.4,
+            "sg": 6.4
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 104.32,
+            "sg": 104.32
+         },
+         "swellHeight": {
+            "noaa": 0.11,
+            "sg": 0.11
+         },
+         "swellPeriod": {
+            "noaa": 9.03,
+            "sg": 9.03
+         },
+         "time": "2021-08-04T03:00:00+00:00",
+         "windDirection": {
+            "noaa": 194.11,
+            "sg": 194.11
+         },
+         "windSpeed": {
+            "noaa": 6.35,
+            "sg": 6.35
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 105.59,
+            "sg": 105.59
+         },
+         "swellHeight": {
+            "noaa": 0.16,
+            "sg": 0.16
+         },
+         "swellPeriod": {
+            "noaa": 8.23,
+            "sg": 8.23
+         },
+         "time": "2021-08-04T04:00:00+00:00",
+         "windDirection": {
+            "noaa": 196.59,
+            "sg": 196.59
+         },
+         "windSpeed": {
+            "noaa": 6.29,
+            "sg": 6.29
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 106.87,
+            "sg": 106.87
+         },
+         "swellHeight": {
+            "noaa": 0.21,
+            "sg": 0.21
+         },
+         "swellPeriod": {
+            "noaa": 7.42,
+            "sg": 7.42
+         },
+         "time": "2021-08-04T05:00:00+00:00",
+         "windDirection": {
+            "noaa": 199.07,
+            "sg": 199.07
+         },
+         "windSpeed": {
+            "noaa": 6.24,
+            "sg": 6.24
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 108.14,
+            "sg": 108.14
+         },
+         "swellHeight": {
+            "noaa": 0.26,
+            "sg": 0.26
+         },
+         "swellPeriod": {
+            "noaa": 6.62,
+            "sg": 6.62
+         },
+         "time": "2021-08-04T06:00:00+00:00",
+         "windDirection": {
+            "noaa": 201.54,
+            "sg": 201.54
+         },
+         "windSpeed": {
+            "noaa": 6.19,
+            "sg": 6.19
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.94,
+            "sg": 113.94
+         },
+         "swellHeight": {
+            "noaa": 0.23,
+            "sg": 0.23
+         },
+         "swellPeriod": {
+            "noaa": 7.27,
+            "sg": 7.27
+         },
+         "time": "2021-08-04T07:00:00+00:00",
+         "windDirection": {
+            "noaa": 204.02,
+            "sg": 204.02
+         },
+         "windSpeed": {
+            "noaa": 6.13,
+            "sg": 6.13
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 119.75,
+            "sg": 119.75
+         },
+         "swellHeight": {
+            "noaa": 0.2,
+            "sg": 0.2
+         },
+         "swellPeriod": {
+            "noaa": 7.91,
+            "sg": 7.91
+         },
+         "time": "2021-08-04T08:00:00+00:00",
+         "windDirection": {
+            "noaa": 206.5,
+            "sg": 206.5
+         },
+         "windSpeed": {
+            "noaa": 6.08,
+            "sg": 6.08
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 125.55,
+            "sg": 125.55
+         },
+         "swellHeight": {
+            "noaa": 0.17,
+            "sg": 0.17
+         },
+         "swellPeriod": {
+            "noaa": 8.56,
+            "sg": 8.56
+         },
+         "time": "2021-08-04T09:00:00+00:00",
+         "windDirection": {
+            "noaa": 208.98,
+            "sg": 208.98
+         },
+         "windSpeed": {
+            "noaa": 6.02,
+            "sg": 6.02
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 121.53,
+            "sg": 121.53
+         },
+         "swellHeight": {
+            "noaa": 0.15,
+            "sg": 0.15
+         },
+         "swellPeriod": {
+            "noaa": 9.56,
+            "sg": 9.56
+         },
+         "time": "2021-08-04T10:00:00+00:00",
+         "windDirection": {
+            "noaa": 211.45,
+            "sg": 211.45
+         },
+         "windSpeed": {
+            "noaa": 5.97,
+            "sg": 5.97
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 117.5,
+            "sg": 117.5
+         },
+         "swellHeight": {
+            "noaa": 0.12,
+            "sg": 0.12
+         },
+         "swellPeriod": {
+            "noaa": 10.55,
+            "sg": 10.55
+         },
+         "time": "2021-08-04T11:00:00+00:00",
+         "windDirection": {
+            "noaa": 213.93,
+            "sg": 213.93
+         },
+         "windSpeed": {
+            "noaa": 5.91,
+            "sg": 5.91
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.48,
+            "sg": 113.48
+         },
+         "swellHeight": {
+            "noaa": 0.1,
+            "sg": 0.1
+         },
+         "swellPeriod": {
+            "noaa": 11.55,
+            "sg": 11.55
+         },
+         "time": "2021-08-04T12:00:00+00:00",
+         "windDirection": {
+            "noaa": 216.41,
+            "sg": 216.41
+         },
+         "windSpeed": {
+            "noaa": 5.86,
+            "sg": 5.86
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.61,
+            "sg": 113.61
+         },
+         "swellHeight": {
+            "noaa": 0.1,
+            "sg": 0.1
+         },
+         "swellPeriod": {
+            "noaa": 11.51,
+            "sg": 11.51
+         },
+         "time": "2021-08-04T13:00:00+00:00",
+         "windDirection": {
+            "noaa": 214.41,
+            "sg": 214.41
+         },
+         "windSpeed": {
+            "noaa": 6.19,
+            "sg": 6.19
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.73,
+            "sg": 113.73
+         },
+         "swellHeight": {
+            "noaa": 0.1,
+            "sg": 0.1
+         },
+         "swellPeriod": {
+            "noaa": 11.46,
+            "sg": 11.46
+         },
+         "time": "2021-08-04T14:00:00+00:00",
+         "windDirection": {
+            "noaa": 212.4,
+            "sg": 212.4
+         },
+         "windSpeed": {
+            "noaa": 6.52,
+            "sg": 6.52
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.86,
+            "sg": 113.86
+         },
+         "swellHeight": {
+            "noaa": 0.1,
+            "sg": 0.1
+         },
+         "swellPeriod": {
+            "noaa": 11.42,
+            "sg": 11.42
+         },
+         "time": "2021-08-04T15:00:00+00:00",
+         "windDirection": {
+            "noaa": 210.4,
+            "sg": 210.4
+         },
+         "windSpeed": {
+            "noaa": 6.85,
+            "sg": 6.85
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 114.51,
+            "sg": 114.51
+         },
+         "swellHeight": {
+            "noaa": 0.14,
+            "sg": 0.14
+         },
+         "swellPeriod": {
+            "noaa": 10.31,
+            "sg": 10.31
+         },
+         "time": "2021-08-04T16:00:00+00:00",
+         "windDirection": {
+            "noaa": 208.4,
+            "sg": 208.4
+         },
+         "windSpeed": {
+            "noaa": 7.17,
+            "sg": 7.17
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.16,
+            "sg": 115.16
+         },
+         "swellHeight": {
+            "noaa": 0.19,
+            "sg": 0.19
+         },
+         "swellPeriod": {
+            "noaa": 9.19,
+            "sg": 9.19
+         },
+         "time": "2021-08-04T17:00:00+00:00",
+         "windDirection": {
+            "noaa": 206.39,
+            "sg": 206.39
+         },
+         "windSpeed": {
+            "noaa": 7.5,
+            "sg": 7.5
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.81,
+            "sg": 115.81
+         },
+         "swellHeight": {
+            "noaa": 0.23,
+            "sg": 0.23
+         },
+         "swellPeriod": {
+            "noaa": 8.08,
+            "sg": 8.08
+         },
+         "time": "2021-08-04T18:00:00+00:00",
+         "windDirection": {
+            "noaa": 204.39,
+            "sg": 204.39
+         },
+         "windSpeed": {
+            "noaa": 7.83,
+            "sg": 7.83
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 114.85,
+            "sg": 114.85
+         },
+         "swellHeight": {
+            "noaa": 0.24,
+            "sg": 0.24
+         },
+         "swellPeriod": {
+            "noaa": 8.02,
+            "sg": 8.02
+         },
+         "time": "2021-08-04T19:00:00+00:00",
+         "windDirection": {
+            "noaa": 202.39,
+            "sg": 202.39
+         },
+         "windSpeed": {
+            "noaa": 8.16,
+            "sg": 8.16
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.88,
+            "sg": 113.88
+         },
+         "swellHeight": {
+            "noaa": 0.24,
+            "sg": 0.24
+         },
+         "swellPeriod": {
+            "noaa": 7.96,
+            "sg": 7.96
+         },
+         "time": "2021-08-04T20:00:00+00:00",
+         "windDirection": {
+            "noaa": 200.38,
+            "sg": 200.38
+         },
+         "windSpeed": {
+            "noaa": 8.49,
+            "sg": 8.49
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 112.92,
+            "sg": 112.92
+         },
+         "swellHeight": {
+            "noaa": 0.25,
+            "sg": 0.25
+         },
+         "swellPeriod": {
+            "noaa": 7.9,
+            "sg": 7.9
+         },
+         "time": "2021-08-04T21:00:00+00:00",
+         "windDirection": {
+            "noaa": 198.38,
+            "sg": 198.38
+         },
+         "windSpeed": {
+            "noaa": 8.82,
+            "sg": 8.82
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 111.48,
+            "sg": 111.48
+         },
+         "swellHeight": {
+            "noaa": 0.26,
+            "sg": 0.26
+         },
+         "swellPeriod": {
+            "noaa": 7.76,
+            "sg": 7.76
+         },
+         "time": "2021-08-04T22:00:00+00:00",
+         "windDirection": {
+            "noaa": 196.38,
+            "sg": 196.38
+         },
+         "windSpeed": {
+            "noaa": 9.14,
+            "sg": 9.14
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 110.05,
+            "sg": 110.05
+         },
+         "swellHeight": {
+            "noaa": 0.26,
+            "sg": 0.26
+         },
+         "swellPeriod": {
+            "noaa": 7.63,
+            "sg": 7.63
+         },
+         "time": "2021-08-04T23:00:00+00:00",
+         "windDirection": {
+            "noaa": 194.37,
+            "sg": 194.37
+         },
+         "windSpeed": {
+            "noaa": 9.47,
+            "sg": 9.47
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 108.61,
+            "sg": 108.61
+         },
+         "swellHeight": {
+            "noaa": 0.27,
+            "sg": 0.27
+         },
+         "swellPeriod": {
+            "noaa": 7.49,
+            "sg": 7.49
+         },
+         "time": "2021-08-05T00:00:00+00:00",
+         "windDirection": {
+            "noaa": 192.37,
+            "sg": 192.37
+         },
+         "windSpeed": {
+            "noaa": 9.8,
+            "sg": 9.8
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 110.04,
+            "sg": 110.04
+         },
+         "swellHeight": {
+            "noaa": 0.22,
+            "sg": 0.22
+         },
+         "swellPeriod": {
+            "noaa": 8.67,
+            "sg": 8.67
+         },
+         "time": "2021-08-05T01:00:00+00:00",
+         "windDirection": {
+            "noaa": 193.42,
+            "sg": 193.42
+         },
+         "windSpeed": {
+            "noaa": 9.71,
+            "sg": 9.71
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 111.47,
+            "sg": 111.47
+         },
+         "swellHeight": {
+            "noaa": 0.18,
+            "sg": 0.18
+         },
+         "swellPeriod": {
+            "noaa": 9.84,
+            "sg": 9.84
+         },
+         "time": "2021-08-05T02:00:00+00:00",
+         "windDirection": {
+            "noaa": 194.48,
+            "sg": 194.48
+         },
+         "windSpeed": {
+            "noaa": 9.62,
+            "sg": 9.62
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 112.9,
+            "sg": 112.9
+         },
+         "swellHeight": {
+            "noaa": 0.13,
+            "sg": 0.13
+         },
+         "swellPeriod": {
+            "noaa": 11.02,
+            "sg": 11.02
+         },
+         "time": "2021-08-05T03:00:00+00:00",
+         "windDirection": {
+            "noaa": 195.53,
+            "sg": 195.53
+         },
+         "windSpeed": {
+            "noaa": 9.53,
+            "sg": 9.53
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.35,
+            "sg": 113.35
+         },
+         "swellHeight": {
+            "noaa": 0.14,
+            "sg": 0.14
+         },
+         "swellPeriod": {
+            "noaa": 11.0,
+            "sg": 11.0
+         },
+         "time": "2021-08-05T04:00:00+00:00",
+         "windDirection": {
+            "noaa": 196.59,
+            "sg": 196.59
+         },
+         "windSpeed": {
+            "noaa": 9.44,
+            "sg": 9.44
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.79,
+            "sg": 113.79
+         },
+         "swellHeight": {
+            "noaa": 0.14,
+            "sg": 0.14
+         },
+         "swellPeriod": {
+            "noaa": 10.97,
+            "sg": 10.97
+         },
+         "time": "2021-08-05T05:00:00+00:00",
+         "windDirection": {
+            "noaa": 197.64,
+            "sg": 197.64
+         },
+         "windSpeed": {
+            "noaa": 9.35,
+            "sg": 9.35
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 114.24,
+            "sg": 114.24
+         },
+         "swellHeight": {
+            "noaa": 0.15,
+            "sg": 0.15
+         },
+         "swellPeriod": {
+            "noaa": 10.95,
+            "sg": 10.95
+         },
+         "time": "2021-08-05T06:00:00+00:00",
+         "windDirection": {
+            "noaa": 198.7,
+            "sg": 198.7
+         },
+         "windSpeed": {
+            "noaa": 9.26,
+            "sg": 9.26
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 114.63,
+            "sg": 114.63
+         },
+         "swellHeight": {
+            "noaa": 0.15,
+            "sg": 0.15
+         },
+         "swellPeriod": {
+            "noaa": 10.93,
+            "sg": 10.93
+         },
+         "time": "2021-08-05T07:00:00+00:00",
+         "windDirection": {
+            "noaa": 199.75,
+            "sg": 199.75
+         },
+         "windSpeed": {
+            "noaa": 9.17,
+            "sg": 9.17
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.01,
+            "sg": 115.01
+         },
+         "swellHeight": {
+            "noaa": 0.15,
+            "sg": 0.15
+         },
+         "swellPeriod": {
+            "noaa": 10.92,
+            "sg": 10.92
+         },
+         "time": "2021-08-05T08:00:00+00:00",
+         "windDirection": {
+            "noaa": 200.81,
+            "sg": 200.81
+         },
+         "windSpeed": {
+            "noaa": 9.08,
+            "sg": 9.08
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.4,
+            "sg": 115.4
+         },
+         "swellHeight": {
+            "noaa": 0.15,
+            "sg": 0.15
+         },
+         "swellPeriod": {
+            "noaa": 10.9,
+            "sg": 10.9
+         },
+         "time": "2021-08-05T09:00:00+00:00",
+         "windDirection": {
+            "noaa": 201.87,
+            "sg": 201.87
+         },
+         "windSpeed": {
+            "noaa": 8.99,
+            "sg": 8.99
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.21,
+            "sg": 115.21
+         },
+         "swellHeight": {
+            "noaa": 0.15,
+            "sg": 0.15
+         },
+         "swellPeriod": {
+            "noaa": 10.88,
+            "sg": 10.88
+         },
+         "time": "2021-08-05T10:00:00+00:00",
+         "windDirection": {
+            "noaa": 202.92,
+            "sg": 202.92
+         },
+         "windSpeed": {
+            "noaa": 8.9,
+            "sg": 8.9
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.01,
+            "sg": 115.01
+         },
+         "swellHeight": {
+            "noaa": 0.16,
+            "sg": 0.16
+         },
+         "swellPeriod": {
+            "noaa": 10.86,
+            "sg": 10.86
+         },
+         "time": "2021-08-05T11:00:00+00:00",
+         "windDirection": {
+            "noaa": 203.98,
+            "sg": 203.98
+         },
+         "windSpeed": {
+            "noaa": 8.81,
+            "sg": 8.81
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 114.82,
+            "sg": 114.82
+         },
+         "swellHeight": {
+            "noaa": 0.16,
+            "sg": 0.16
+         },
+         "swellPeriod": {
+            "noaa": 10.84,
+            "sg": 10.84
+         },
+         "time": "2021-08-05T12:00:00+00:00",
+         "windDirection": {
+            "noaa": 205.03,
+            "sg": 205.03
+         },
+         "windSpeed": {
+            "noaa": 8.72,
+            "sg": 8.72
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.13,
+            "sg": 115.13
+         },
+         "swellHeight": {
+            "noaa": 0.15,
+            "sg": 0.15
+         },
+         "swellPeriod": {
+            "noaa": 10.82,
+            "sg": 10.82
+         },
+         "time": "2021-08-05T13:00:00+00:00",
+         "windDirection": {
+            "noaa": 203.52,
+            "sg": 203.52
+         },
+         "windSpeed": {
+            "noaa": 8.29,
+            "sg": 8.29
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.45,
+            "sg": 115.45
+         },
+         "swellHeight": {
+            "noaa": 0.15,
+            "sg": 0.15
+         },
+         "swellPeriod": {
+            "noaa": 10.8,
+            "sg": 10.8
+         },
+         "time": "2021-08-05T14:00:00+00:00",
+         "windDirection": {
+            "noaa": 202.01,
+            "sg": 202.01
+         },
+         "windSpeed": {
+            "noaa": 7.85,
+            "sg": 7.85
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.76,
+            "sg": 115.76
+         },
+         "swellHeight": {
+            "noaa": 0.14,
+            "sg": 0.14
+         },
+         "swellPeriod": {
+            "noaa": 10.78,
+            "sg": 10.78
+         },
+         "time": "2021-08-05T15:00:00+00:00",
+         "windDirection": {
+            "noaa": 200.5,
+            "sg": 200.5
+         },
+         "windSpeed": {
+            "noaa": 7.42,
+            "sg": 7.42
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.76,
+            "sg": 115.76
+         },
+         "swellHeight": {
+            "noaa": 0.14,
+            "sg": 0.14
+         },
+         "swellPeriod": {
+            "noaa": 10.82,
+            "sg": 10.82
+         },
+         "time": "2021-08-05T16:00:00+00:00",
+         "windDirection": {
+            "noaa": 198.98,
+            "sg": 198.98
+         },
+         "windSpeed": {
+            "noaa": 6.99,
+            "sg": 6.99
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.77,
+            "sg": 115.77
+         },
+         "swellHeight": {
+            "noaa": 0.13,
+            "sg": 0.13
+         },
+         "swellPeriod": {
+            "noaa": 10.86,
+            "sg": 10.86
+         },
+         "time": "2021-08-05T17:00:00+00:00",
+         "windDirection": {
+            "noaa": 197.47,
+            "sg": 197.47
+         },
+         "windSpeed": {
+            "noaa": 6.55,
+            "sg": 6.55
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 115.77,
+            "sg": 115.77
+         },
+         "swellHeight": {
+            "noaa": 0.13,
+            "sg": 0.13
+         },
+         "swellPeriod": {
+            "noaa": 10.9,
+            "sg": 10.9
+         },
+         "time": "2021-08-05T18:00:00+00:00",
+         "windDirection": {
+            "noaa": 195.96,
+            "sg": 195.96
+         },
+         "windSpeed": {
+            "noaa": 6.12,
+            "sg": 6.12
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 116.44,
+            "sg": 116.44
+         },
+         "swellHeight": {
+            "noaa": 0.13,
+            "sg": 0.13
+         },
+         "swellPeriod": {
+            "noaa": 10.9,
+            "sg": 10.9
+         },
+         "time": "2021-08-05T19:00:00+00:00",
+         "windDirection": {
+            "noaa": 194.45,
+            "sg": 194.45
+         },
+         "windSpeed": {
+            "noaa": 5.69,
+            "sg": 5.69
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 117.12,
+            "sg": 117.12
+         },
+         "swellHeight": {
+            "noaa": 0.13,
+            "sg": 0.13
+         },
+         "swellPeriod": {
+            "noaa": 10.91,
+            "sg": 10.91
+         },
+         "time": "2021-08-05T20:00:00+00:00",
+         "windDirection": {
+            "noaa": 192.94,
+            "sg": 192.94
+         },
+         "windSpeed": {
+            "noaa": 5.25,
+            "sg": 5.25
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 117.79,
+            "sg": 117.79
+         },
+         "swellHeight": {
+            "noaa": 0.13,
+            "sg": 0.13
+         },
+         "swellPeriod": {
+            "noaa": 10.91,
+            "sg": 10.91
+         },
+         "time": "2021-08-05T21:00:00+00:00",
+         "windDirection": {
+            "noaa": 191.42,
+            "sg": 191.42
+         },
+         "windSpeed": {
+            "noaa": 4.82,
+            "sg": 4.82
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 116.25,
+            "sg": 116.25
+         },
+         "swellHeight": {
+            "noaa": 0.1,
+            "sg": 0.1
+         },
+         "swellPeriod": {
+            "noaa": 11.89,
+            "sg": 11.89
+         },
+         "time": "2021-08-05T22:00:00+00:00",
+         "windDirection": {
+            "noaa": 189.91,
+            "sg": 189.91
+         },
+         "windSpeed": {
+            "noaa": 4.39,
+            "sg": 4.39
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 114.72,
+            "sg": 114.72
+         },
+         "swellHeight": {
+            "noaa": 0.08,
+            "sg": 0.08
+         },
+         "swellPeriod": {
+            "noaa": 12.87,
+            "sg": 12.87
+         },
+         "time": "2021-08-05T23:00:00+00:00",
+         "windDirection": {
+            "noaa": 188.4,
+            "sg": 188.4
+         },
+         "windSpeed": {
+            "noaa": 3.95,
+            "sg": 3.95
+         }
+      },
+      {
+         "swellDirection": {
+            "noaa": 113.18,
+            "sg": 113.18
+         },
+         "swellHeight": {
+            "noaa": 0.05,
+            "sg": 0.05
+         },
+         "swellPeriod": {
+            "noaa": 13.85,
+            "sg": 13.85
+         },
+         "time": "2021-08-06T00:00:00+00:00",
+         "windDirection": {
+            "noaa": 186.89,
+            "sg": 186.89
+         },
+         "windSpeed": {
+            "noaa": 3.52,
+            "sg": 3.52
+         }
+      }
+   ],
+   "meta": {
+      "cost": 1,
+      "dailyQuota": 50,
+      "end": "2021-08-06 00:00",
+      "lat": 39.970806,
+      "lng": -73.967408,
+      "params": [
+         "windSpeed",
+         "windDirection",
+         "swellDirection",
+         "swellHeight",
+         "swellPeriod"
+      ],
+      "requestCount": 11,
+      "start": "2021-07-27 00:00"
+   }
+}
